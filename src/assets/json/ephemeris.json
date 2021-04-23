@@ -1,0 +1,4545 @@
+[
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Nuit du nouvel an sereine, signe d'une année pleine.", 
+            "À l'an neuf, le jour augmente d'un pas de bœuf.", 
+            "Les douze premiers jours de ce premier des mois, pour chacun d'eux forment autant de lois.", 
+            "Le mauvais an entre en nageant.", 
+            "Quand est sec le mois de Janvier, ne doit se plaindre le fermier.", 
+            "Janvier d'eau chiche fait le paysan riche.", 
+            "Quand le mois de Janvier n'aide pas le bouvier, il s'aidera de mars ou de février.", 
+            "À janvier sage, bon présage.", 
+            "Janvier d'eau chiche fait le paysan riche.", 
+            "Mieux vaut un voleur dans son grenier, qu'un laboureur en chemise en janvier.", 
+            "Mieux vaut voir un loup sur un fumier, qu'un homme en chemise en janvier.", 
+            "Quand il ne pleut pas en janvier, il faut étayer le grenier.", 
+            "Orage en janvier, l'hiver est avorté.", 
+            "Quand l'orage se fait entendre en janvier, on l'entendra tous les autres mois de l'année.", 
+            "Quand il tonne en janvier, il tonne tous les mois de l'année.", 
+            "Neiges et gelées blanches en janvier, causent du mal aux montagnes comme aux vallées.", 
+            "Si les mouches dansent en janvier, le cultivateur de ses fourrages doit s'inquiéter.", 
+            "Quand sec est le mois de janvier, ne doit se plaindre le fermier.", 
+            "Quand le crapaud chante en janvier, serre ta paille, métayer.", 
+            "Fleurs de janvier, ne vont dans le panier.", 
+            "Quand on peut labourer en janvier, on aura sept pains pour un dîner.", 
+            "Jour de l'an beau, mois d'août très chaud.", 
+            "À l'an neuf, les jours croissent du pas d'un bœuf.", 
+            "Au décours de janvier, la serpe au bois et le levier.", 
+            "An de nouveau, tout nous est beau.", 
+            "Bon jour et bon an, la paille au cul, et le feu dedans.", 
+            "Quand le soleil brille le jour de l'an, c'est signe de gland.", 
+            "Beau jour de l'an, beau mois d'août.", 
+            "Premier de l'an beau, août chaud.", 
+            "Calme et claire nuit de l'an, à bonne année donne l'élan."
+        ], 
+        "fete": "Jour de l'an"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Le temps du deux janvier présage celui de septembre."
+        ], 
+        "fete": "Saint Basile, Saint Grégoire"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Sainte Geneviève ne sort point, si saint Marcel ne la rejoint."
+        ], 
+        "fete": "Sainte Geneviève"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Le jour de saint Odilon, souvent n'amène rien de bon."
+        ], 
+        "fete": " Saint Odilon"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "À partir de saint Siméon, tu peux semer tes melons.", 
+            "À la saint Siméon, la neige et les tisons."
+        ], 
+        "fete": "Saint Edouard, Saint Siméon"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Beaux jours aux Rois, blé jusqu'au toit.", 
+            "Belle journée aux Rois, l'orge croît sur les toits.", 
+            "Quand le soleil luit aux Rois, le chanvre croît sur les toits.", 
+            "Quand les Rois sont clairs, la chènevière vient sur les toits.", 
+            "Quand il pleut le jour des Rois, le chanvre vient sur les toits.", 
+            "Pluie aux Rois, blé jusqu'au toit.", 
+            "Pluie aux Rois orge jusqu'au toit, et dans les tonneaux vin à flots.", 
+            "Si le soir des Rois beaucoup d'étoiles tu vois ; auras sécheresse en été et œufs au poulailler."
+        ], 
+        "fete": "Épiphanie"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "S'il gèle à la saint Raymond, l'hiver est encore long."
+        ], 
+        "fete": "Saint Raymond"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Temps de saint Lucien, temps de chien."
+        ], 
+        "fete": "Saint Lucien"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Sainte Alix brise la glace, si elle ne la brise c'est elle qui l'embrasse."
+        ], 
+        "fete": "Sainte Alice, Sainte Alix"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "À la saint Guillaume, tu auras du blé plus que de chaume.", 
+            "Beau temps à la saint Guillaume donne plus de blé que de chaume."
+        ], 
+        "fete": "Saint Guillaume"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Beaux jours de janvier trompent l'homme en février.",
+            "Janvier sec et beau, remplit cuves et tonneaux."
+        ], 
+        "fete": "Sainte Pauline"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Les douze premiers jours de janvier, indiquent le temps qu'il fera les douze mois de l'année."
+        ], 
+        "fete": "Sainte Tatiana"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Soleil au jour de saint Hilaire, fends du bois pour ton hiver.", 
+            "S'il neige à la saint Hilaire, il fera froid tout l'hiver.", 
+            "À la saint Hilaire, le jour croît d'un pas de bergère.", 
+            "Soleil et chaleur à la saint Hilaire n'indiquent pas la fin de l'hiver."
+        ], 
+        "fete": "Saint Hilaire, Sainte Yvette"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Soleil de sainte Nina, pour un long hiver rentre ton bois."
+        ], 
+        "fete": "Sainte Nina"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Neige en janvier, blé au grenier."
+        ], 
+        "fete": "Saint Rémi"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Prépare pour saint Marcel, tes graines nouvelles."
+        ], 
+        "fete": "Saint Marcel"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Si la saint Antoine a la barbe blanche, il y aura beaucoup de pommes de terre.",
+            "À la saint Antoine, les jours croissent du pas d'un moine.", 
+            "Quand il pleut le jour de saint Antoine, pomme de terre prospère.", 
+            "À saint Antoine grande froidure, à saint Laurent grands chauds ne durent."
+        ], 
+        "fete": "Saint Antoine, Sainte Roseline"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Neige de la sainte Prisca, va apporter une belle année que voilà."
+        ], 
+        "fete": "Sainte Prisca"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Janvier le frileux, février le grésilleux.", 
+            "Janvier de glace fait le point, février qui passe le rompt."
+        ], 
+        "fete": "Saint Marius"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "À la saint Sébastien, l'hiver reprend ou se casse les dents.",
+            "S'il gèle à la saint Sébastien, la mauvaise herbe ne revient.",
+            "S'il gèle à la saint Sébastien, l'hiver s'en va ou revient."
+        ], 
+        "fete": "Saint Sébastien"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Jour de saint Agnès, jamais trop de froid ne laisse.", 
+            "À la sainte Agnès, l'hiver sans amour ne progresse."
+        ], 
+        "fete": "Sainte Agnès"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Si le jour de saint Vincent le soleil est clairvoyant, il y aura beaucoup de jus au sarment.", 
+            "Quand le soleil luit à la saint Vincent, le vin monte au sarment.", 
+            "Aube claire à saint Vincent, beaucoup de fruits pour tout le monde.", 
+            "À saint Vincent une claire journée, nous annonce une bonne année.", 
+            "À la saint Vincent s'il fait beau, le bouvier doit épargner le feneau.", 
+            "Quand il fait beau le jour de saint Vincent, le vigneron s'en va chantant.", 
+            "Le jour de saint Vincent clair et serein, annonce une année de bon vin.", 
+            "Le jour de saint Vincent, si le soleil luit grand comme un chapeau, on aura du vin plein le tonneau.", 
+            "Quand saint Vincent est clair et beau, il y a du vin comme de l'eau.", 
+            "Si le jour de saint Vincent est trouble, il met le vin au double.", 
+            "Le jour de la saint Vincent, tout gèle ou tout détend.", 
+            "À la saint Vincent, l'hiver monte ou descend.", 
+            "À la saint Vincent, l'hiver prend ou se casse les dents.", 
+            "À la saint Vincent, les glaçons perdent leurs dents.", 
+            "Saint Vincent clair et beau, plus de vin que d'eau.", 
+            "À la saint Vincent tout dégèle ou tout prend.", 
+            "À la saint Vincent cesse la pluie et vient le vent.", 
+            "À la saint Vincent l'hiver se reprend, tout gèle ou tout fend.", 
+            "À la saint Vincent ou les glaçons perdent leurs dents, ou les recouvrent pour longtemps.", 
+            "À la saint Vincent, la sève monte dans les sarments.", 
+            "À la saint Vincent l'hiver quitte sa dent ou la reprend."
+        ], 
+        "fete": "Saint Vincent"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Saint Barnard ensoleillé rend le vigneron gai.",
+            "Sécheresse de janvier, richesse de fermier."
+        ], 
+        "fete": "Saint Barnard"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "Si janvier est doux comme février, février est rude comme janvier."
+        ], 
+        "fete": "Saint François"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "De saint Paul la claire journée, nous dénote une bonne année.", 
+            "De saint Paul les brouillards, mortalité de toutes parts.", 
+            "À la saint Paul, l'hiver se casse ou se recolle.", 
+            "À la saint Paul s'entrebattent les vents, celui qui l'emporte dominera l'an."
+        ], 
+        "fete": "Saint Paul"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Sainte Paule sec et beau, remplit greniers et tonneaux."
+        ], 
+        "fete": "Sainte Paule"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Après sainte Angèle, le jardinier ne craint plus le gel."
+        ], 
+        "fete": "Sainte Angèle"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "Pluie qui dure en janvier suffit pour toute l'année"
+        ], 
+        "fete": "Saint Thomas"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "S'il gèle à la saint Sulplice, le printemps sera propice."
+        ], 
+        "fete": "Saint Gildas"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "Souvent à la sainte Martine, l'hiver reprend dès mâtines.", 
+            "Prends garde à la sainte Martine, car souvent l'hiver se mutine."
+        ], 
+        "fete": "Sainte Martine"
+    }, 
+    {
+        "date": {
+            "mois": 1, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "Souvent fin janvier ne remplit pas le panier.", 
+            "Compte bien fin janvier, que tu as mangé la moitié de ton grenier.",
+            "Janvier et février, comblent ou vident le grenier."
+        ], 
+        "fete": "Sainte Marcelle"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Que si janvier est bouier, ne le sont ni mars ni février.",
+            "Fleur de février, va mal au pommier.", 
+            "Belle avoine de février, donne espérance au grenier.", 
+            "En février poule naissante, sur le gerbier sera pondante.", 
+            "Dans le courant de février, pleins d'eau les fossés en entier.", 
+            "Lorsque janvier n'est pas favorable à l'araire, février n'est pas son frère.", 
+            "Malgré février quand il arrive, bâtit la pie et pond la grive.", 
+            "Mieux vaudrait voir un voleur au grenier qu'un homme les bras nus dans le mois de février.", 
+            "Si février n'a pas de grands froids, le vent dominera tout le reste du mois.", 
+            "En février les agneaux naissent plus beaux.", 
+            "En février s'il grêle et s'il tonne, c'est marque d'un bel automne.", 
+            "S'il tonne en février, de ta cave fais un grenier.", 
+            "Lorsqu'il tonne au mois de février, l'huile en produit tient dans une cuiller.", 
+            "Pluie de février vaut égout de fumier.", 
+            "Février entre tous les mois, le plus court et le plus froid.", 
+            "Février est de tous les mois, le plus court et le plus matois.", 
+            "La veille de la chandeleur, l'hiver se passe ou prend vigueur.", 
+            "S'il tonne en février, il faut jeter les fûts sur le fumier.", 
+            "Neige de février vaut jus de fumier.", 
+            "La neige qui tombe au mois de février, met en belle humeur l'usurier.", 
+            "Neige que donne février met peu de blé au grenier.", 
+            "La neige qui tombe en février, la poule l'emporte avec son pied.", 
+            "Eau de février vaut jus de fumier.", 
+            "Fleur de février, ne va pas au pommier.", 
+            "Belle avoine de février donne espérance au grenier.", 
+            "En février, moitié en grange et moitié en grenier.", 
+            "Si février ne donne pas ses bourrasques, tous les mois sont courroucés.", 
+            "Février trop doux présage un printemps froid.", 
+            "Si février ne vomit pas ses fièvres, le vent souffle pendant toute l'année.", 
+            "L'avoine de février remplit le grenier.", 
+            "Février, le plus court des mois, est de tous le pire à la fois."
+        ], 
+        "fete": "Sainte Ella"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Si l'hiver ne fait son devoir au mois de décembre et janvier, au plus tard il se fera voir vers le deuxième de février.", 
+            "Chant de la grive, au second de février, c'est tant de froid en dernier qu'en premier.", 
+            "S'il pleut sur la chandelle, il pleut sur la javelle.", 
+            "Si la chandeleur arrivant le soleil brille au firmament, le froid sera certainement pire après qu'il ne fut avant.", 
+            "Chandeleur claire, hiver derrière ; chandeleur trouble, hiver redouble.", 
+            "Rosée à la chandeleur, hiver à sa dernière demeure.", 
+            "Quand Notre-Dame de la chandeleur luit, l'hiver quarante jours s'ensuit.", 
+            "Quand le soleil à la chandeleur fait lanterne, quarante jours après il hiverne.", 
+            "La chandeleur claire, laisse un hiver derrière.", 
+            "Quand le soleil luit à la chandeleur, croyez qu'encore un hiver vous aurez.", 
+            "La chandeleur noire, l'hiver a fait son devoir ; la chandeleur trouble, l'hiver redouble.", 
+            "À la chandeleur, l'hiver cesse ou reprend vigueur.", 
+            "Quand il pleut sur la chandelle, il pleut sur la javelle.", 
+            "Si le jour de la chandeleur il fait beau, il y aura du vin comme de l'eau.", 
+            "Lorsqu'à la chandeleur le soleil luit sur la cire, la récolte en foin est des plus pires.", 
+            "Autant l'alouette chante avant la chandeleur, autant elle se tait après.", 
+            "À Notre-Dame de la chandeleur, ou grand froid ou grande neige.", 
+            "À la chandeleur, cesse de filer, mets ton rouet derrière la porte, et tire ta charrue.", 
+            "À la chandeleur, l'hiver se passe ou prend vigueur."
+        ], 
+        "fete": "Chandeleur"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Si le jour de la saint Blaise est serein, bon temps pour le grain.", 
+            "S'il ne pleut ou ne neige à la saint Blaise, en mars, le froid en prendra à son aise.", 
+            "Le lendemain de saint Blaise, souvent l'hiver s'apaise."
+        ], 
+        "fete": "Saint Blaise"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "À sainte Véronique, les marchands de marrons plient boutique.", 
+            "Le lendemain de saint Blaise, souvent l'hiver s'apaise.", 
+            "Prends bien garde au lendemain de saint Blaise, s'il est serein ; car cela présage une année très fertile et très fortunée."
+        ], 
+        "fete": " Sainte Véronique"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "À la sainte Agathe, l'hiver se hâte.", 
+            "À la sainte Agathe, les oignons se plantent même dans la glace.", 
+            "Pour la sainte Agathe, sème ton oignon fût-il dans la glace, il deviendra bon.", 
+            "À sainte Agathe va à ta vigne, si ce n'est pour y travailler, du moins pour y déjeuner.", 
+            "Quand pour sainte Agathe il pleut, le maïs croît sur les pierres.", 
+            "Eau qui court à la sainte Agathe mettra du lait dans la baratte."
+        ], 
+        "fete": "Sainte Agathe"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "À la saint Gaston, surveille tes bourgeons.", 
+            "À la saint Gaston, bien souvent le temps n'est pas bon."
+        ], 
+        "fete": "Saint Gaston"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Si février ne févrière pas, tout mois de l'an peu ou prou le fera.", 
+            "Février entre tous les mois, le plus court et le moins courtois.", 
+            "Si février n'est pas pluvieux, ménage ton grenier."
+        ], 
+        "fete": "Sainte Eugénie"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "À la sainte Jacqueline, froid et bruine."
+        ], 
+        "fete": "Sainte Jacqueline"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Si du chanvre tu veux récolter, au carnaval il faut danser.",
+            "S'il pleut le jour de carnaval, la terre est altérée toute l'année.",
+            "À la sainte Apolline, bien souvent l'hiver nous quitte.", 
+            "À la sainte Apolline présage certain, l'hiver s'achemine ou touche à sa fin."
+        ], 
+        "fete": "Sainte Apolline"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Quand février commence en lion, il finit comme un mouton.", 
+            "Quand la bise oublie février, elle arrive en mai."
+        ], 
+        "fete": "Saint Arnaud"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Février, bon mois, pour semer carottes et pois.", 
+            "Si février est chargé d'eau, le printemps n'en sera que plus beau."
+        ], 
+        "fete": "Sainte Héloïse"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Saint Félix et la Présentation amènent le froid pour de bon."
+        ], 
+        "fete": "Sainte Félix"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Pluie de février vaut jus de fumier.", 
+            "De sainte Béatrice la nuée assure six semaines mouillées."
+        ], 
+        "fete": "Sainte Béatrice"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "À la saint Valentin, tous les vents sont marins.", 
+            "À la saint Valentin, la pie monte au sapin."
+        ], 
+        "fete": "Sainte Valentin"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Au milieu de février, la grange et le grenier son réduits à moitié.",
+            "Le quinze février tu dois avoir ton porc entier, moitié grange, moitié grenier, aussi bien que moitié fumier.", 
+            "À la saint Claude, regarde ton seau, tu ne le verras pas plus haut.",
+            "Au milieu de février, le jour et la nuit sont pareils."
+        ], 
+        "fete": "Saint Claude"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "À la sainte Julienne, il faut toujours que le soleil vienne."
+        ], 
+        "fete": "Sainte Julienne"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "À la saint Alexis, foin occis.", 
+            "Février pluvieux, mars hâleux, bons pour les laboureux."
+        ], 
+        "fete": "Saint Alexis"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "À la saint Bernadette, souvent le soleil est de la fête."
+        ], 
+        "fete": "Sainte Bernadette"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Février, le plus court des mois, est aussi le pire cent fois.", 
+            "La nouvelle lune de février, sert pour l'année de calendrier."
+        ], 
+        "fete": "Saint Gabin"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Souvent à la sainte Aimée, la campagne est enneigée.", 
+            "Pluie de février, emplit les greniers."
+        ], 
+        "fete": "Saint Aimée"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Il est trop tard à la saint Damien, pour planter les arbres à pépins.",
+            "À la saint Damien, l'hiver reprend ou s'éteint."
+        ], 
+        "fete": "Sainte Damien"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Le temps qu'il fait le jour de la sainte Isabelle, dure jusqu'aux Rameaux.", 
+            "Neige à la sainte Isabelle, fait la fleur plus belle."
+        ], 
+        "fete": "Saint Isabelle"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Souvent à la saint Lazare, le froid gagne ou file à la montagne.", 
+            "À la saint Florent, l'hiver s'en va ou reprend.", 
+            "À la saint Florent, il est bien de semer le froment, mais sans perdre de temps."
+        ], 
+        "fete": "Saint Lazare, Saint Florent"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "À la saint Modeste, repique tes choux s'il t'en reste.",
+            "Quand saint Mathias trouve de la glace, il la casse.",
+            "Saint Mathias casse la glace ; s'il n'y en a pas, il en fera."
+        ], 
+        "fete": "Saint Modeste, Saint Mathias"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "S'il fait beau et sec à la saint Roméo, garde du foin pour tes chevaux.", 
+            "Il vaut mieux voir un loup dans le troupeau, qu'un mois de février trop beau."
+        ], 
+        "fete": "Saint Roméo"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Vents forts à la saint Nestor, bon vin à la saint Marcellin.", 
+            "S'il tonne en février, point de vin tiré.", 
+            "Quand il tonne en février, il faut monter les tonneaux au grenier."
+        ], 
+        "fete": "Sainte Nestor"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "À la sainte Honorine, bourgeonne l'aubépine.", 
+            "Gelée du jour sainte Honorine, rend toute la vallée chagrine."
+        ], 
+        "fete": "Sainte Honorine"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "Ciel clair à la saint Romain, c'est beaucoup de bien et de bon vin.", 
+            "Beau ciel à la saint Romain, il y aura des denrées et du bon vin.", 
+            "Le dernier jour de février doit laisser le fossé comble.", 
+            "Février est des mois de l'année, le moins long et le plus mauvais.", 
+            "Si février ne frévote, mars vient qui le garrotte.", 
+            "Quand février n’est pas rigoureux, mars écorche.", 
+            "Quoique court, le mois de février est le plus méchant de tous.", 
+            "Février trop doux, printemps en courroux."
+        ], 
+        "fete": "Saint Romain"
+    }, 
+    {
+        "date": {
+            "mois": 2, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Quand février prend un jour, souvent de catastrophes il est lourd."
+        ], 
+        "fete": "Saint Auguste"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Janvier a fait la faute, et c'est mars qu'on accuse.", 
+            "Entre mars et avril, on va de la table au lit.", 
+            "Mars sec et beau remplit cuves et tonneaux.", 
+            "À mars poudreux, avril pluvieux.", 
+            "Des fleurs qu'en mars on verra, peu de fruit se mangera.", 
+            "Quand mars bien mouillé sera, bien du lin se récoltera.", 
+            "Quand en mars beaucoup il tonne, apprête cercles et tonne.", 
+            "Quand mars bien mouillé sera, bière de lui se recueillera.", 
+            "Mars venteux, avril pluvieux, aux ruches ne sont pas heureux.", 
+            "Quand en mars beaucoup il tonne, apprête ton cercle et ta tonne.", 
+            "N'est point si petite poulette, qu'en mars ne soit poule toute faite.", 
+            "Vin de mars fort peu s'entonne, et n'enivre guère personne.", 
+            "Quand en mars l'abricotier est en fleur, nuit et jour ont même longueur.", 
+            "Quand mars mouillera, bien du vin tu auras.", 
+            "Au commencement ou à la fin, mars a son poison et venin.", 
+            "Mars venteux et avril pluvieux font le mai gai et gracieux.", 
+            "Quand il pleut à la saint Aubin, l'eau est plus chère que le vin.", 
+            "Toujours Saint Aubin nous garde quelque chose en son pépin.", 
+            "S'il pleut à la saint Aubin, il coulera bien trop de vin.", 
+            "Quand il pleut à la Saint Aubin, il n'y aura ni lin ni foin.", 
+            "Quand en mars il tonne, l'année sera bonne.", 
+            "Lorsqu'au mois de mars il tonne, on remplit bouteilles et tonnes.", 
+            "Quand le mois de mars est poussiéreux, le bouvier devient orgueilleux.", 
+            "Quand les grenouilles chantent en mars, elles se taisent en avril.", 
+            "Si le seigle est sans épis au mois de mars, c'est tant pis.", 
+            "Soit au commencement, soit à la fin, mars nous montrera son venin.", 
+            "Quand il pleut à la saint Aubin, n'as ni paille, ni foin, ni grain."
+        ], 
+        "fete": "Saint Aubin"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "À la saint Charles, la gelée parle.",
+            "Si mars commence en courroux, il finira tout doux, tout doux.",
+            "Mars venteux ; vergers pommeux."
+        ], 
+        "fete": "Saint Charles"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "À la saint Guénolé, au taureau ferme le pré.",
+            "S'il gèle à la saint Guénolé, au taureau ferme le pré."
+        ], 
+        "fete": "Saint Guénolé"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "De Saint Casimir la douceur fait peur aux jardiniers et aux laboureurs."
+        ], 
+        "fete": " Saint Casimir"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Taille tôt taille tard, il n'est que taille de mars.", 
+            "Quand en mars il pleut dru, il n'a pas assez plu.", 
+            "À la sainte Olive, ne verra point la grive."
+        ], 
+        "fete": "Sainte Olive"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Au jour de sainte Colette, commence à chanter l'alouette.", 
+            "À sainte Colette, on voit à vue d'œil, au sureau pousser les feuilles.", 
+            "À la sainte Colette, siffle siffle l'alouette."
+        ], 
+        "fete": "Sainte Colette"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Le jour de la sainte Félicité se voit venir avec gaieté.", 
+            "Mars aride, avril humide.", 
+            "Le beau temps de mars se paie en avril.", 
+            "Quand mars se déguise en été, avril prend ses habits fourrés.", 
+            "Mars est capable de tuer les bêtes à l'étable."
+        ], 
+        "fete": "Sainte Félicité"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Mars sec n'a jamas fait manger le pain sec.",
+            "En mars, les vaches au pré, si ce n'est pour manger, c'est pour s'y gratter."
+        ], 
+        "fete": "Saint Jean"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Quand en mars il pleut, sois heureux tant que tu peux.", 
+            "Semé à la sainte Françoise, ton grain aura du poids."
+        ], 
+        "fete": "Sainte Françoise"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Si saint Vivien est gelé, quarante jours le jardinier aura froid aux pieds.",
+            "S'il gèle au jour des quarante martyrs, il gèlera encore quarante jours au pire."
+        ], 
+        "fete": "Saint Vivien"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Pluie de mars grandit l'herbette, et souvent annonce disette."
+        ], 
+        "fete": "Sainte Rosine"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Le soleil de mars donne des rhumes tenaces."
+        ], 
+        "fete": "Sainte Justine"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "En mars quand il fait beau, prends un manteau."
+        ], 
+        "fete": "Saint Rodrigue"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Chèvrefeuille planté à sainte Mathilde, fleurit dès sainte Clotilde."
+        ], 
+        "fete": "Sainte Mathilde"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Neige de mars brûle le bourgeon.",
+            "Taille tôt, taille tard ; mais taille toujours en mars."
+        ], 
+        "fete": "Sainte Louise"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Mars poudreux, an malheureux.",
+            "Quand mars bien mouillé sera, beaucoup de fruits tu cueilleras."
+        ], 
+        "fete": "Sainte Bénédicte"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Quand il fait doux à la saint Patrice, de leurs trous sortent les écrevisses.", 
+            "Sème tes pois à la saint Patrice, tu en auras à ton caprice."
+        ], 
+        "fete": "Saint Patrice"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Brouillard en mars, gelée en mai."
+        ], 
+        "fete": "Saint Cyrille"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Qui veut bonne meulonnière, à la saint Joseph doit la faire.", 
+            "À la saint Joseph beau temps, promesse de bon an.", 
+            "Pour la saint Joseph chaque oiseau, bâtit son chateau."
+        ], 
+        "fete": "Saint Joseph"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Le printemps est venu : comment, nul ne l'a su.",
+            "Le printemps s'annonce toujours rempli de promesses... sans jamais nous mentir, sans jamais défaillir.",
+            "Ô jours de mon printemps, jours couronnés de roses."
+        ], 
+        "fete": "Printemps"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Où le vent se tourne le 21 mars, il y reste jusqu'au 21 juin.",
+            "Jamais pluie de printemps, n'a passé pour mauvais temps."
+        ], 
+        "fete": "Sainte Clémence"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "En mars les vaches au pré, si ce n'est pour manger, c'est pour s'y gratter.", 
+            "Fleur marsière ne tient guère."
+        ], 
+        "fete": "Sainte Léa"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Quand à glace il gèle à la saint Victorien, en pêches, en abricots il n'y a rien.", 
+            "S'il pleut à la saint Victorien, on ne ramassera que du foin.", 
+            "S'il pleut le jour de saint Victorien, tu peux sûrement compter sur du bon foin."
+        ], 
+        "fete": "Saint Victorien"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "C'est en mars que le printemps chante, et que le rhumatisme augmente.", 
+            "Quand mars fait avril, avril fait mars.", 
+            "S'il gèle au vingt-quatre mars, les poires diminuent d'un quart."
+        ], 
+        "fete": "Sainte Catherine de Suède"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Quand il gèle le 25 mars, gelée toute l'année.", 
+            "S'il gèle le 25 mars, il y aura disette de blé.", 
+            "S'il gèle le 25 mars, les prairies diminuent d'un quart.", 
+            "S'il gèle le 25 mars, il faut faire provision de grain et de vin.",
+            "Le vingt-cinq mars le compagnon, rend la chandelle au patron.", 
+            "Le 25 mars passé plus de bois amasser.", 
+            "Pour le 25 mars pré et treille garderas, où la peau du cul tu y laisseras."
+        ], 
+        "fete": "Saint Humbert"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "En mars autant de gelées, en avril autant de poussées."
+        ], 
+        "fete": "Sainte Larissa"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Le soleil de mars, donne des rhumes tenaces.", 
+            "Mars sec et chaud remplit caves et tonneaux."
+        ], 
+        "fete": "Saint Habib"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "À la saint Gontran si la température est belle, arrivent les premières hirondelles.", 
+            "Le temps de saint Gontran voit l'hirondelle arrivant.", 
+            "S'il gèle à la saint Gontran, le blé ne deviendra pas grand."
+        ], 
+        "fete": "Saint Gontran"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "De mars la verdure, mauvaise augure."
+        ], 
+        "fete": "Sainte Gwladys"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "Souvent, la saint Amédée, est de mars la plus belle journée.", 
+            "Mars est comme la romance, il finit comme il commence."
+        ], 
+        "fete": "Saint Amédée"
+    }, 
+    {
+        "date": {
+            "mois": 3, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "Le mois de mars est sans valeur, s'il ne laisse le seigle en fleur.",
+            "Que mars, oui ou non, veuille, il faut bien qu'avril feuille.", 
+            "Quand mars entre comme un mouton, il sort comme un lion.", 
+            "Autant de brouillard en mars, autant de gelée en avril.", 
+            "À la saint Benjamin, le mauvais temps prend fin."
+        ], 
+        "fete": "Saint Benjamin"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "En avril, ne te découvre pas d'un fil ; en mai, fais ce qu'il te plaît.", 
+            "Pendant tout le mois d'avril, ne t'allège pas d'un fil.", 
+            "II faut de la pluie en avril, pour le grenier et le fenil.", 
+            "Premier avril faut que pinson boive sur buisson.", 
+            "Fleur d'avril tient par un fil.", 
+            "Bourgeon qui pousse en avril met peu de vin dans le baril.", 
+            "Avril frais et mai chaud emplissent la grange jusqu'en haut.", 
+            "Petite pluie d'avril fait belle moisson d'été.", 
+            "Quand le coucou arrive déshabillé, peu de paille et beaucoup de blé.", 
+            "Le coucou avant les feuilles annonce beaucoup de paille, mais peu de grains.", 
+            "Pluie en avril, c'est, dit-on, une abondante moisson.", 
+            "Avril n'a que trente jours ; s'il pleut trente et un, c'est bon toujours.", 
+            "En avril, bas ou haut, tout arbre a son loriot.", 
+            "Avril et mai sont la clé de l'année.", 
+            "Pluie d'avril remplit le grenier.", 
+            "Quand il pleut en avril, il pleut sans cesse en mai.", 
+            "Pluie d'avril, sécheresse d'été.", 
+            "Pas n'est avril si beau, que le berger ne voie tomber la neige sur son chapeau.", 
+            "Avril doux, c'est du bien partout.", 
+            "Avril le doux, quand il se fâche, est le pire de tous.", 
+            "Avril froid donne pain et vin ; avril doux, quand il tourne, est le pire de tous.", 
+            "S'il n'y avait ni seigneurs ni mois d'avril sur terre, il n'y aurait jamais ni famine ni guerre.", 
+            "Pas n'est avril si beau, que le berger ne voie tomber la neige sur son chapeau.", 
+            "Qu'avril emprunte seulement trois jours à mars, ces trois jours sont méchants.", 
+            "II n'est si gentil mois d'avril, qui n'ait son chapeau de grésil.", 
+            "Ne crois pas de l'hiver avoir atteint la fin, que la lune d'avril n'ait accompli son plein.", 
+            "Bouvier quand tu vas voir ton foin pour le diviser avec soin, souviens-toi bien du mois d'avril toujours cousu d'un mauvais fil.", 
+            "Si en mars la gelée serre, apprête ta cuve et baril, mais s'il gèle fort en avril, ta cuve et ton baril resserre.", 
+            "Le vent d'avril n'a pas d'abri, pas plus que le pauvre d'ami.", 
+            "Pluie de saint Hugues à sainte Sophie, remplit granges et fournils.", 
+            "Les pâques pluvieuses sont souvent fromenteuses, et souvent menteuses.", 
+            "S'il pleut le jour des Rameaux, les millets seront très beaux.", 
+            "Quand aux Rameaux souffle l'autan, l'autan dominera tout l'an.", 
+            "Le vent qui souffle le jour des Rameaux est le vent dominant de l'année.", 
+            "Le vent reste trois mois du côté où il se trouve le jour des Rameaux.", 
+            "Vent du nord aux Rameaux dure les trois quarts de l'année.", 
+            "Vent qui souffle au jour des Rameaux ne changera pas de sitôt.", 
+            "Quand il pleut le jour des Rameaux, il pleut à la fenaison et à la moisson.", 
+            "Le jour des Rameaux, quand le coq est amant, année tendre.", 
+            "Le plus fort vent des premiers du carême, presque toujours dans l'année est le même.", 
+            "Au premier avril, souvent dans ton dos tient un fil.", 
+            "Le propre jour des Rameaux, sème oignons et poireaux.", 
+            "Du tonnerre en Avril, c'est du foin et du blé.", 
+            "Si le coucou arrive à découvert, il y a peu de paille et beaucoup de blé.", 
+            "Sillon d'avril par la neige comblé, comme un bœuf dévore le blé.", 
+            "Janvier fait le pont, février le rompt ; avril fait la fleur, mai s'en donne l'honneur.", 
+            "Au premier avril, poisson se faufile.", 
+            "Avril entrant, coucou chantant, sonnailles tintant."
+        ], 
+        "fete": "Saint Hugues"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Au moment où commence avril, l'esprit doit se montrer subtil.", 
+            "Quand avril tombe l'eau, vigneron répare le fond de ton tonneau.", 
+            "Bourgeon d'avril emplit le baril.", 
+            "Tonnerre en avril, défoncez vos barils."
+        ], 
+        "fete": "Sainte Sandrine"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Comme est fait le 3, il fait le mois.", 
+            "Le 3 avril le coucou chante mort ou vif."
+        ], 
+        "fete": "Saint Richard"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Si les quatre premiers jours d'avril sont venteux, il y en aura pour quarante jours.", 
+            "À la saint Isidore, si le soleil dore, le blé sera haut et chenu, mais le pommier sera nu."
+        ], 
+        "fete": " Saint Isidore"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Fleur d'avril ne tient qu'à un fil.", 
+            "À la sainte Irène s'il fait beau, il y aura moins de vin que d'eau."
+        ], 
+        "fete": "Sainte Irène"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Au jour de saint Prudence, s'il pleut, s'il vente, peu après le mouton danse.", 
+            "Au jour de saint Prudence, s'il fait du vent, les moutons dansent."
+        ], 
+        "fete": "Saint Marcellin, Saint Prudence"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Saint Jean-Baptiste ensoleillé, bon grain au grenier.", 
+            "En avril, le sureau doit fleurir, sinon, le paysan va souffrir.", 
+            "Avril mou rend l'usurier fou !", 
+            "Belles journées en avril, préparent un mois de mai fertile."
+        ], 
+        "fete": "Saint Jean-Baptiste"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Avril pluvieux et mai venteux, ne rendent pas le paysan disetteux.", 
+            "La lune d'avril nouvel, ne passe pas sans gel.", 
+            "À la sainte Julie, le soleil ne quitte pas son lit.", 
+            "Mars gris, avril pluvieux, font l'an fertile et plantureux."
+        ], 
+        "fete": "Sainte Julie"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "À la saint Gauthier, jamais le jour entier ne passe sans quelques giboulées.", 
+            "Tant que dure la rousse lune, mes fruits sont sujets à fortune.", 
+            "Quand mars a fait l'été, avril met son manteau.", 
+            "Gelée d'avril ou de mai, misère nous prédit au vrai."
+        ], 
+        "fete": "Saint Gauthier"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Quand arrive la saint Fulbert, dans la campagne tout est vert."
+        ], 
+        "fete": "Saint Fulbert"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "S'il gèle à la saint Stanislas, on aura deux jours de glace.", 
+            "Avril fait la fleur, Mai en a l'honneur."
+        ], 
+        "fete": "Saint Stanislas"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "À la saint Jules, mauvais temps, n'est pas installé pour longtemps."
+        ], 
+        "fete": "Saint Jules"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Avril frais et mai chaud, remplissent les granges jusqu'en haut.", 
+            "Avril, un de bon sur mille.", 
+            "Avril venteux, rend le laboureur joyeux."
+        ], 
+        "fete": "Sainte Ida"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Si saint Maxime est pluvieux, suivent neuf jours dangereux."
+        ], 
+        "fete": "Sainte Maxime"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Quand à saint Paterne arrive la saison, la chaleur vient pour de bon.", 
+            "À la mi-avril, le blé est à l'épi."
+        ], 
+        "fete": "Saint Paterne"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Il n'est point d'avril si beau, qui n'ait de neige à son chapeau.",
+            "Si la pluie d'avril vaut son pesant d'or, quand le tonnerre va, c'est un trésor."
+        ], 
+        "fete": "Saint Benoît-Joseph"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Beau temps à la saint Anicet, est l'annonce d'un bel été.", 
+            "Avril froid à la saint Anicet, pain et vin donne, mai froid les moissonne."
+        ], 
+        "fete": "Saint Anicet"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Lune d'avril ne passe pas sans gelée.", 
+            "La saint Parfait, ne passe pas sans gelée.",
+            "Avril pluvieux, mai venteux, font an fécond et bienfaiteux."
+        ], 
+        "fete": "Saint Parfait"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Sainte Emma prend la dernière neige de l'an."
+        ], 
+        "fete": "Sainte Emma"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Avril fait la fleur, mai en a l'honneur."
+        ], 
+        "fete": "Sainte Odette"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Tel temps à la saint Anselme, tel temps pendant une semaine.", 
+            "À la saint Anselme, les dernières fleurs on sème."
+        ], 
+        "fete": "Sainte Anselme"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Pluie le jour de sainte Opportune, ni cerises ni prunes.",
+            "Pluie de sainte Opportune, ni cerises ni prunes.", 
+            "À la sainte Opportune beau temps, fruits d'été abondant."
+        ], 
+        "fete": "Saint Opportune"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Quand il pleut le jour de saint Georges, sur cent cerises on a quatorze.", 
+            "S'il gèle à la saint Georges, sur cent bourgeons en restent quatorze.", 
+            "Pluie de saint Georges, coupe aux prunes et aux cerises la gorge.", 
+            "À la saint Georges, l'épi est dans la gorge.", 
+            "À la saint Georges, sème ton orge ; à la saint Marc, il est trop tard.", 
+            "Saint Georges, saint Marc, sont réputés saints vendangeurs.", 
+            "Quand il pleut à la saint Georges, il n'y a ni prune ni orge.", 
+            "Saint Georges, saint Marc sont réputés saints grêleurs."
+        ], 
+        "fete": "Saint Georges"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "Si trente et un jour avril avait, personne ne s'en plaindrait.", 
+            "À la saint Gaston, trie la semence, enlève le bourgeon."
+        ], 
+        "fete": "Saint Fidèle"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Au mois d'avril, plante l'oignon comme un fil.", 
+            "Entre Georges et Marquet, un jour de l'hiver se met.", 
+            "À la saint Marc s'il tombe de l'eau, il n'y aura pas de fruits à couteau.", 
+            "À la saint Marc s'il tombe de l'eau, il n'y aura pas de fruits à noyaux.", 
+            "S'il pleut à la saint Marc, point de panier ni de sac.", 
+            "S'il pleut le jour de la saint Marc, point de pommes.", 
+            "À la saint Marc s'il tombe de l'eau, il n'y aura point de fruits à couteau.", 
+            "Saint Marc mouillé au petit jour, c'est de la pluie pour tout le jour."
+        ], 
+        "fete": "Saint Marc"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Avril et mai sont la clé de l'année.", 
+            "Avril a trente jours, s'il pleuvait durant trente-et-un, il n'y aurait mal pour aucun.", 
+            "Le vin d'avril est un vin de Dieu, le vin de mai est un vin de laquais."
+        ], 
+        "fete": "Sainte Alida"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "À la sainte Zita, le froid ne dure pas.", 
+            "Quand la lune rousse est passée, on ne craint plus la gelée.", 
+            "L'hiver n'est point passé que la lune rousse n'ait décliné.", 
+            "Lune rousse, vide bourse.", 
+            "La lune rousse, toujours nous trémousse.", 
+            "Les gelées de la lune rousse, de la plante brûlent la pousse.", 
+            "Ce que la lune rousse met au monde elle le nourrit, et ce qu'elle y trouve elle l'étrangle.", 
+            "La lune rousse est la lune des abîmes.", 
+            "Quand la lune rousse commence comme un lion, elle finit comme un mouton.", 
+            "La lune rousse, si elle ne donne de la tête, donne de la queue.", 
+            "La lune rousse ôte tout ou donne tout.", 
+            "À saint Frédéric, tout est vert, tout est nids ; plantes, bêtes et puis gens, tout sourit."
+        ], 
+        "fete": "Sainte Zita"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "À la saint Vital, pluie et gel font tout le mal.", 
+            "Il n'est si gentil mois d'avril, qui n'ait son manteau de grésil.", 
+            "À la sainte Valérie, souvent le soleil luit."
+        ], 
+        "fete": "Sainte Valérie"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Caprices d'avril font tomber les fleurs, et trembler les laboureurs.", 
+            "D'avril les ondées, font les fleurs de mai.", 
+            "Pluie de saint Hugues à sainte Sophie, remplit les granges et les barils."
+        ], 
+        "fete": "Sainte Catherine de Sienne"
+    }, 
+    {
+        "date": {
+            "mois": 4, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "À la saint Robert, tout arbre est vert.", 
+            "Sainte Eutrope mouillée, cerises estropiées.", 
+            "Avril entrant comme un agneau, s'en retourne comme un taureau.", 
+            "En avril nuée, en mai rosée.", 
+            "La pluie, le jour de saint Robert, de bon vin remplira ton verre."
+        ], 
+        "fete": "Saint Robert"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "En mai, fais ce qu'il te plaît.", 
+            "Au premier mai, fleurit le bon muguet.", 
+            "Du mois de mai la chaleur, de tout l'an fait la valeur.", 
+            "Bourgeons de mai, remplit le chai.", 
+            "Au mois de mai, blé et vin naît.", 
+            "Au mois de mai, le seigle déborde la haie.", 
+            "Pluie en mai fait, beau tout ou tout laid.", 
+            "Rosée de mai, verdit les près.", 
+            "Rosée en avril et mai, rend août et septembre gai.", 
+            "La rosée du mois de mai, rend le laboureur gai.", 
+            "Petite pluie de mai, tout le monde est gai.", 
+            "En avril nuée, en mai rosée.", 
+            "Avril frais pain et vin donne, mai trop frais moissonne.", 
+            "Brouillard en mai, bientôt il pleut, ou gèle plus qu'on ne le veut.", 
+            "Mai clair et venteux, fait l'an plantureux.", 
+            "Le temps est vite réchauffé, par les doux rayons du soleil de mai.", 
+            "Le temps est réchauffé, par la lune de mai.", 
+            "Rosées du mois de mai, rendent le mois d'août gai.", 
+            "Brouillard en mai bientôt pleut, ou  gèle en mai plus qu'on ne veut.", 
+            "S'il pleut premier mai peu de coings, s'il pleut le deux tu n'as plus rien.", 
+            "Qui a la fièvre au mois de mai, le reste de l'an vit sain et gai.", 
+            "Au blé mai donne soin, tout comme juin au foin.", 
+            "Frais mois de mai et chaud juin amènent pain et vin.", 
+            "En Mai rejette le sarrau, et la capète et le manteau.", 
+            "S'il pleut à la Trinité, la récolte tombe à moitié.", 
+            "Au mois de mai, il faudrait qu'il ne plût jamais.", 
+            "Rosée du mois de mai, gâte tout ou ranime tout.", 
+            "Le blé sera fort mal nourri, si mai ne voit sa fleur et son épi.", 
+            "De la pluie le premier jour de mai, ôte aux fourrages leur qualité.", 
+            "Quand il pleut le premier jour de mai, les vaches perdent la moitié de leur lait.", 
+            "Quand il pleut le premier jour de mai, les fourrages rendent amer le lait."
+        ], 
+        "fete": "Fête du travail"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Mai sans rose, rend l'âme morose.", 
+            "Quand le raisin naît en mai, il faut s'attendre à du mauvais.", 
+            "Vin de mai, piquette de chai.", 
+            "Fleur de mai, il faut s'y fier.", 
+            "À la Saint Boris, mai fait ou défait.", 
+            "Au jour de la saint Boris par malheur, c'est un mauvais vendangeur.", 
+            "Pluie de mai grandit l'herbette, mais c'est signe de disette."
+        ], 
+        "fete": "Saint Boris"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Lorsqu'il pleut le 3 mai, point de noix au noyer.", 
+            "À la sainte Croix, on sème les pois.", 
+            "Si à saint Jacques l'apôtre pleure, bien peu de glands il demeure.", 
+            "Quand il pleut le jour de saint Philippe, il ne faut ni tonneau ni pipe.", 
+            "Si au 3 mai il pleut, l'été sera pluvieux.", 
+            "Au 3 mai ensoleillé, un bel été est assuré."
+        ], 
+        "fete": "Saint Philippe"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "La rosée de mai, fait tout beau ou tout laid.", 
+            "Quand il tonne en mai, les vaches ont du lait.", 
+            "Chaude et douce pluie de mai, fait belle fleur et riche épi.", 
+            "Quand l'aubépine est en fleur, le temps est en rigueur.", 
+            "C'est à la saint Antonin, que vend son vin le malin.", 
+            "À la saint Antonin, les amoureux se prennent la main."
+        ], 
+        "fete": " Saint Sylvain"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Sainte Judith, voit pinson au nid.", 
+            "Qui n'a pas semé à la sainte Croix, au lieu d'un grain en mettra trois.", 
+            "Pluie de la Croix, disette de noix.", 
+            "Le temps de sainte Judith, va durer jusqu'au dix-huit.", 
+            "À la sainte Judith, beau temps se précipite."
+        ], 
+        "fete": "Sainte Judith"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "S'il pleut à la petite saint Jean, toute l'année s'en ressent.", 
+            "Soleil à la petite saint Jean, mois de mai fleurissant."
+        ], 
+        "fete": "Saint Prudence"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Plus mai est chaud, plus l'an vaut.", 
+            "Chaleur au mois de mai, de tout l'an fait la beauté."
+        ], 
+        "fete": "Sainte Gisèle"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Au jour de saint Boniface, toute boue s'efface.", 
+            "À la saint Boniface, mai pluvieux nous fait face."
+        ], 
+        "fete": "Armistice 1945"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Le mois de mai de l'année, décide la destinée.", 
+            "Brouillard de mai et chaleur de juin, aménent la moisson à point."
+        ], 
+        "fete": "Saint Pacôme"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "C'est à la saint Antonin, que vend son vin le malin.", 
+            "À la saint Antonin, se pointe le mois de juin."
+        ], 
+        "fete": "Sainte Solange"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Gare s'il gèle à la sainte Estelle.", 
+            "Aux trois Saints de glace, fais toujours face."
+        ], 
+        "fete": "Sainte Estelle"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "À la saint Achille, herbe à pleine faucille.", 
+            "Souvent saint Pancrase, rapporte la glace.", 
+            "Saint Mamert, saint Servais, saint Pancrace, de leur passage laissent souvent trace.", 
+            "Saint Servais, saint Mamert et saint Pancrace, apportent souvent la glace."
+        ], 
+        "fete": "Saint Achille"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Passé saint Servais, on peut semer.", 
+            "Avant saint Servais, point d'été.", 
+            "À la saint Servais, se décide l'été.", 
+            "Après saint Servais, plus de gelée."
+        ], 
+        "fete": "Sainte Rollande"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Saint Boniface nous ôte la boue, ou il nous en met jusqu'au cou.", 
+            "Saint Matthias casse la glace, s'il n'en trouve pas il faut qu'il en fasse.", 
+            "À la saint Matthias, tout chaud ou de glace."
+        ], 
+        "fete": "Saint Matthias"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "À la saint Isidore, la dernière gelée.", 
+            "À la sainte Denise, s'arrête la bise.", 
+            "À la sainte Denise, le froid n'en fait plus à sa guise."
+        ], 
+        "fete": "Sainte Denise"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "À la saint Honoré, s'il fait gelée le vin diminue de moitié.", 
+            "À la mi-mai queue de l'hiver, mais à saint Honoré que de pois verts."
+        ], 
+        "fete": "Saint Honoré"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "S'il tonne au jour de saint Pascal, sans grêle ce n'est pas un mal.", 
+            "À la saint Pascal, s'il fait beau l'été sera méridional.", 
+            "Tonnerre de saint Pascal, sans grêle ce n'est pas un mal."
+        ], 
+        "fete": "Saint Pascal"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Bon fermier à sainte Juliette, doit vendre ses poulettes.", 
+            "À la sainte Coralie, tous les lilas sont fleuris."
+        ], 
+        "fete": "Saint Eric"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Craignez le petit Yvonnet, c'est le pire de tous quand il s'y met."
+        ], 
+        "fete": "Saint Yves"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "À la saint Bernardin, compte tes barriques de vin.", 
+            "S'il pleut à la saint Bernardin, tu peux dire adieu à ton vin."
+        ], 
+        "fete": "Saint Bernadin"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Sel de mai sel du mois, n'enrichit pas le bourgeois.", 
+            "À la saint Constantin, compte tes sous dans tes mains.", 
+            "Au mois de mai pour une fois, le vent ne court pas sur le toit."
+        ], 
+        "fete": "Saint Constantin"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Beau temps du jour sainte Emilie, donne du fruit à la folie.", 
+            "À la sainte Julie, le soleil ne quitte pas son lit.", 
+            "À sainte Emilie, luzerne à pleine folie."
+        ], 
+        "fete": "Saint Emile"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "À la saint Didier soleil orgueilleux, nous annonce un été joyeux.", 
+            "Sème tes haricots à la saint Didier, pour un tu en auras un millier.", 
+            "Plante un pois à la saint Didier, tu récolteras un setier.", 
+            "Saint Didier ramasse tout dans son devantier.", 
+            "Haricot semé à la saint Didier, en rapporte un demi-setier.", 
+            "Qui sème les haricots à la saint Didier, les récolte par poignées."
+        ], 
+        "fete": "Saint Didier"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "Après sainte Angèle, le jardinier ne craint plus le gel.", 
+            "Celui qui s'allège avant le mois de mai, certainement ne sait pas ce qu'il fait."
+        ], 
+        "fete": "Saint Donatien"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Quand la saint Urbain est passée, le vigneron est rassuré.", 
+            "Que saint Urbain ne soit passé, le vigneron n'est pas assuré.", 
+            "Saint Urbain, dernier marchand de vin.", 
+            "Après la saint Urbain, plus ne gèlent vin ni pain.", 
+            "Après la saint Urbain, ce qui reste appartient au vilain.", 
+            "À la saint Urbain, le blé doit avoir fait son grain.", 
+            "Bon vin à la saint Urbain, bourré du soir au matin.", 
+            "Soleil à la saint Urbain, présage une année de vin."
+        ], 
+        "fete": "Sainte Sophie"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Quand il pleut à la saint Philippe, le pauvre n'a pas besoin du riche.", 
+            "Soleil à la saint Bérengère, présage d'un bel été et hiver."
+        ], 
+        "fete": "Sainte Marianne"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "À la saint Ildevert, est mort tout arbre qui n'est point vert."
+        ], 
+        "fete": "Saint Augustin"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "Soleil de saint Germain, nous promet du bon vin.", 
+            "À la saint Germain, les jours sont beaux tous les matins."
+        ], 
+        "fete": "Saint Germain"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Le jour de saint Maximin, s'embaume le jasmin.", 
+            "À la saint Gérard, les radis sont encore rares."
+        ], 
+        "fete": "Saint Géraldine"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "Si le dicton dit vrai, méchante femme s'épouse en mai.", 
+            "Lorsque mai est trop jardinier, cela ne remplit pas le grenier."
+        ], 
+        "fete": "Saint Ferdinand"
+    }, 
+    {
+        "date": {
+            "mois": 5, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "Pluie de sainte Pétronille, change raisin en grapilles.", 
+            "Eau de sainte Pétronille, change le raisin en grapille.", 
+            "Quand il pleut le jour de sainte Pétronille, c'est que la sainte mouille sa guenille.", 
+            "S'il pleut à la sainte Pétronille, les raisins deviennent grappilles, ou tombent en guenilles.", 
+            "S'il pleut le jour de sainte Pétronille, le blé diminue jusqu'à la faucille.", 
+            "S'il pleut à la sainte Pétronille, pendant quarante jours elle trempe ses guenilles."
+        ], 
+        "fete": "Visitation"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Bon soleil de juin, n'a jamais ruiné personne.", 
+            "Eau de juin, ruine le moulin.", 
+            "Si juin fait la quantité, septembre fait la qualité.", 
+            "S'il pleut à la saint Trinité, le blé diminue de moitié.", 
+            "Beau mois de juin, change l'herbe en beau foin.", 
+            "Pluie de saint Révérien, belles avoines, maigre foin.", 
+            "Mai couvre l'herbe, et juin l'arrache.", 
+            "S'il tonne au mois de juin, année de paille et de foin.", 
+            "La pluie pendant le mois de juin, donne belle avoine et chétif foin.", 
+            "Pluie de juin n'est que fumée.", 
+            "Juin larmoyeux rend le laboureur joyeux.", 
+            "Quand il fait du rouille en juin, cela fait mal au grain.", 
+            "Fleur de juin n'engendre pas pépin.", 
+            "S'il tonne au mois de juin, année de paille et de foin.", 
+            "Qu'il tonne en mai, nous battrons en juin."
+        ], 
+        "fete": "Saint Justin"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Saint Marcellin, bon pour l'eau, bon pour le vin.", 
+            "À la saint Pothin, bonhomme, sème ton sarrasin."
+        ], 
+        "fete": "Sainte Blandine"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Beau temps en juin, abondance de grain.", 
+            "Le temps qu'il fait en juin le trois, sera le temps de tout le mois.", 
+            "À la sainte Clotilde, de fleur en buisson, abeille butine à foison."
+        ], 
+        "fete": "Saint Kévin"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Prépare autant de tonneaux, qu'en juin il y aura de jours beaux.", 
+            "En juin, brume obscure, trois jours seulement dure.", 
+            "Mauvais temps le jour de sainte Marthe, n'est rien car il faut qu'il parte."
+        ], 
+        "fete": " Sainte Clotilde"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Qui en juin se porte bien, au temps chaud ne craindra rien.", 
+            "Prépare autant de tonneaux qu'en juin tu compteras de beaux jours."
+        ], 
+        "fete": "Saint Igor"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "La pluie de juin, fait belle avoine et maigre foin.", 
+            "Les bains que prend saint Norbert, inondent toute la terre."
+        ], 
+        "fete": "Saint Norbert"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "En juin trop de pluie, et le grenier vide s'ennuie.", 
+            "Juin froid et pluvieux, tout l'an sera grincheux."
+        ], 
+        "fete": "Saint Gilbert"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Quand il pleut le jour de saint Médard, le quart des biens est au hasard.", 
+            "S'il pleut à la saint Médard, la récolte diminue d'un quart.", 
+            "Saint Médard, grand pissard ; saint Barnabé, s'y casse le nez.", 
+            "Quand il pleut à la saint Médard, si l'on ne boit du vin, on mange du lard.", 
+            "Saint Médard, planteur de choux, mangeur de lard.", 
+            "La pluie de Saint-Médard fait germer les épis au gerbier, de quoi le sarrasin rit.", 
+            "S'il pleut le jour de saint Médard, nous n'aurons ni vin ni lard.", 
+            "S'il pleut le jour de saint Médard il pleuvra trente jours plus tard, à moins que saint Barnabé très beau lui coupe le pied ; mais entre eux deux saint Gervais jugera le procès.", 
+            "Saint Médard éclairci, fait le grenier farci.", 
+            "S'il pleut le jour de la saint Médard, si t'as pas de vin, tu auras du lard.", 
+            "S'il pleut à la saint Médard, il pleut quarante jours plus tard, à moins que saint Barnabé, ne vienne l'arrêter."
+        ], 
+        "fete": "Saint Médard"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Juin fait pousser le lin, et juillet le rend fin."
+        ], 
+        "fete": "Sainte Diane"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "À la saint Landry, s'il tonne restera vide la tonne.", 
+            "Juin et juillet en fraîcheur, en août orages et chaleurs."
+        ], 
+        "fete": "Saint Landry"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "À la saint Barnabé, canards potelés.", 
+            "À la saint Barnabé, la faux au pré.", 
+            "À la saint Barnabé, le seigle perd le pied.", 
+            "Blés fleuris à la saint Barnabé, présage d'abondance et de qualité.", 
+            "La fleur du blé doit se voir dispersée, au fond de la terre gercée.", 
+            "Garde-toi, dit le blé, de me couper trop mûr, et je te garderai, moi, de perdre, c'est sûr.", 
+            "À la saint Barnabé, fauche ton pré."
+        ], 
+        "fete": "Saint Barnabé"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Abeilles en mai valent un louis d'or, abeilles en juin c'est chance encore."
+        ], 
+        "fete": "Saint Guy"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Saint Antoine ouvre le derrière des poules.", 
+            "Pour la saint Antoine, les jours croissent comme la barbe d'un moine."
+        ], 
+        "fete": "Saint Antoine"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "À la saint Rufin, cerises à plein jardin."
+        ], 
+        "fete": "Sainte Elisée"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "À la saint Augustin, le soleil a grillé le serpolet et le thym.", 
+            "Pluie de saint Guy, c'est tout l'an qui rit."
+        ], 
+        "fete": "Sainte Germaine"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Si le jour de saint Fargeau la lune se fait dans l'eau, le reste du mois est beau.", 
+            "S'il pleut le jour de saint Cyr, le vin diminue jusqu'à la tire.", 
+            "S'il pleut à la saint Gervais, pour les blés c'est signe mauvais.", 
+            "Pluie de saint Aurélien, bel avoine et mauvais foin."
+        ], 
+        "fete": "Saint Régis"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Soleil à la saint Hervé, fait présager d'un bel été."
+        ], 
+        "fete": "Saint Hervé"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Pluie de saint Léonce, pour trente jours s'annonce."
+        ], 
+        "fete": "Sainte Léonce"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Quand il pleut le jour de saint Gervais, il pleut quarante jours après.", 
+            "Saint Gervais, quand il est beau, tire Médard et Barnabé de l'eau."
+        ], 
+        "fete": "Saint Romuald"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Pluie d'orage à la saint Sylvère, c'est beaucoup de vin dans le verre."
+        ], 
+        "fete": "Saint Sylvère"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Les récoltes auront trop froid, s'il fait du vent à saint Leufroy.", 
+            "Été bien doux, hiver en courroux."
+        ], 
+        "fete": "Eté"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "À la saint Alban, on peut poser ses vêtements."
+        ], 
+        "fete": "Saint Alban"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Le sage dit qu'à la sainte Audrey, mieux vaut suer que grelotter."
+        ], 
+        "fete": "Sainte Audrey"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "Du jour de saint Jean la pluie fait la noisette pourrie.", 
+            "Quand il pleut le jour de saint Jean, l'orge s'en va dépérissant.", 
+            "La pluie de la saint Jean, enlève noisettes et glands.", 
+            "Eau de saint Jean ôte le vin, et ne donne point de pain.", 
+            "Si l'on veut avoir une belle récolte, il faut coucher sur son fumier la nuit qui précède saint Jean.", 
+            "À la saint Jean, verjus pendant, argent comptant.", 
+            "Montre-moi une olive à la saint Jean, je t'en montrerai mille à la Toussaint.", 
+            "De saint Jean la pluie, fait noisette pourrie.", 
+            "À la saint Jean, qui voit une pomme en voit cent.", 
+            "À la saint Jean, les jours les plus grands.", 
+            "Pluie à la saint Jean, dure longtemps.", 
+            "Avant saint Jean, pluie bénite ; après saint Jean, pluie maudite.", 
+            "La pluie de saint Jean, emporte la noix et le gland.", 
+            "Pour les prunes à la saint Jean, qu'on en vole une, on en voit cent.", 
+            "La nuit de saint Jean, est la plus longue de l'an."
+        ], 
+        "fete": "Saint Jean-Baptiste"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "S'il fait beau à la saint Guillaume, auras du blé plus que de chaume.", 
+            "Le jour de la saint Prosper, n'oublie pas de fumer la terre."
+        ], 
+        "fete": "Sainte Prosper"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "En juin trop de pluie, le jardinier s'ennuie."
+        ], 
+        "fete": "Saint Anthelme"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "S'il pleut en juin, le jardinier ronge son poing.", 
+            "Temps de la saint Fernand, chaleur et soleil riant."
+        ], 
+        "fete": "Saint Fernand"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "Le jour de la saint Irénée, c'est l'un des plus beaux de l'année."
+        ], 
+        "fete": "Sainte Irénée"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Quand saint Pierre ne lave le chemin, saint Martial le fait comme il faut.", 
+            "Saint Pierre et saint Paul pluvieux, pour trente jours sont dangereux.", 
+            "S'il pleut la veille de saint Pierre, la vinée est réduite au tiers.", 
+            "Saint Pierre et saint Paul lavent les rues de saint Martial.", 
+            "De saint Paul la claire journée, nous dénote une bonne année.", 
+            "Saint Pierre pluvieux, trente jours douteux."
+        ], 
+        "fete": "Saint Pierre"
+    }, 
+    {
+        "date": {
+            "mois": 6, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "En fin juin vent du soir, pour le blé bon espoir.", 
+            "Quand saint Pierre laisse de la pluie à saint Martial,", 
+            "Saint Martial donne des essaims autant qu'il en faut."
+        ], 
+        "fete": "Saint Martial"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Premier juillet pluvieux, les jours suivants douteux.", 
+            "En juillet mois d'abondance, le pauvre a toujours sa pitance.", 
+            "Qu'on soit fumiste ou dramaturge, en juillet il faut qu'on se purge.", 
+            "La récolte ne peut faire plaisir deux fois ; trop belle en herbe, en grain pauvre la vois.", 
+            "Qui veut de beaux navets les sème en juillet.", 
+            "Qui veut de bons poireaux doit semer en juillet.", 
+            "Au mois de juillet, la faucille au poignet.", 
+            "Petite pluie de juillet ensoleillé, emplit caves et greniers.", 
+            "Quand il pleut à la saint Calais, il pleut quarante jours après.", 
+            "Juillet sans orage, famine au village.", 
+            "À la saint Thierry, aux champs jour et nuit."
+        ], 
+        "fete": "Saint Thierry"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "S'il pleut à la Visitation, pluie à discrétion.", 
+            "La pluie de la Visitation, tombe six semaines sur la maison."
+        ], 
+        "fete": "Saint Martinien"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "À la saint Anatole, confiture dans la casserole.", 
+            "À la saint Thomas, les jours sont au plus bas."
+        ], 
+        "fete": "Saint Thomas"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Pour la sainte Berthe, se cueille l'amande verte.", 
+            "Pour la sainte Berthe, moisson ouverte."
+        ], 
+        "fete": " Saint Florent"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Si le début de juillet est pluvieux, le restant du mois sera douteux."
+        ], 
+        "fete": "Saint Antoine"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Jamais en juillet sécheresse, n'a causé la moindre détresse."
+        ], 
+        "fete": "Sainte Mariette"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Quand à saint Raoul le soleil brille, c'est le moissonneur qui grille."
+        ], 
+        "fete": "Saint Raoul"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "À la saint Edgar, on entend du coucou le dernier chant."
+        ], 
+        "fete": "Saint Thibault"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Avec sainte Procule, arrive la canicule."
+        ], 
+        "fete": "Sainte Amandine"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Pluie du dix juillet, mouille sept fois du moissonneur le bonnet.", 
+            "Le jour de sainte Félicité se voit venir avec gaité, car c'est le plus beau jour de l'été."
+        ], 
+        "fete": "Saint Ulrich"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Rosée du jour de saint Savin, est, dit-on, rosée de vin.", 
+            "Pour saint Benoît le coucou chante aux bons endroits.", 
+            "S'il pleut le jour de saint Benoit, il pleuvra trente-sept jours plus trois.", 
+            "Si pour Notre Dame il n'a pas chanté, il est tué ou baillonné."
+        ], 
+        "fete": "Saint Benoît"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Chaud juillet sur frais juin, peu de blé mais bon vin.", 
+            "Juillet, orage de nuit, peu de mal mais que de bruit !"
+        ], 
+        "fete": "Saint Olivier"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Quand reviendra la saint Henri, tu planteras ton céleri."
+        ], 
+        "fete": "Saint Joël"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Pluie du matin, en juillet est bonne au vin."
+        ], 
+        "fete": "Fête Nationale"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Juillet sans orage, famine au village.", 
+            "Si la saint Jacques est serein, l'hiver sera dur et chagrin."
+        ], 
+        "fete": "Saint Donald"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Qui veut bon navet, le sème en juillet.", 
+            "Mieux vaut chèvre que vache à lait, quand la bonne Dame de Carmel est arrivée."
+        ], 
+        "fete": "Notre Dame du Mont Carmel"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "À la saint Alexis, foin occis."
+        ], 
+        "fete": "Sainte Charlotte"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "En juillet mois d'abondance, le pauvre a toujours sa pitance.", 
+            "Juillet ne s'est jamais passé, sans voir du blé nouveau sassé."
+        ], 
+        "fete": "Saint Frédéric"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "À la saint Arsène, met au sec tes graines."
+        ], 
+        "fete": "Saint Arsène"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Autour de la sainte Marguerite, longue pluie est maudite.", 
+            "À la sainte Marguerite, forte pluie est maudite.", 
+            "À la sainte Marguerite, pluie jamais au paysan sourit.", 
+            "Mais la pluie à la sainte Anne, pour lui c'est de la manne.", 
+            "S'il pleut à la sainte Marguerite, les noix seront rentrées bien vite."
+        ], 
+        "fete": "Sainte Marina"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "S'il pleut le jour de saint Victor, la récolte n'est pas d'or.", 
+            "Entre saint Victor et saint Roch, des orages, les grands chocs."
+        ], 
+        "fete": "Saint Victor"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "À la saint Madeleine, la noisette quitte sa gaine.", 
+            "À la saint Madeleine, le raisin est formé et le blé renfermé.", 
+            "À la saint Madeleine, s'il pleut, la figue est fort en peine.", 
+            "À la sainte Madeleine, l'amande est pleine.", 
+            "S'il pleut à la sainte Madeleine, il pleut durant six semaines.", 
+            "S'il pleut à la sainte Madeleine, on voit pourrir noix et châtaignes.", 
+            "Le jour de sainte Madeleine, la noisette pleine, la figue mûre, le raisin coloré, le blé renfermé.", 
+            "Pour la sainte Madeleine, la noisette est pleine, le raisin coloré, le blé ferme.", 
+            "À la sainte Madeleine, il pleut souvent, car elle vit son maître en pleurant."
+        ], 
+        "fete": "Sainte Madeleine"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Nuages de la sainte Brigitte, par le soleil sont chassés vite.", 
+            "À la saint Apollinaire, dernière semaille de laitue en pleine terre."
+        ], 
+        "fete": "Sainte Brigitte"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "À la sainte Christine, les blés perdent leurs racines.", 
+            "À la sainte Christine, mûrit l'aubépine."
+        ], 
+        "fete": "Sainte Christine "
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Si saint Jacques est serein, l'hiver sera dû et serein.", 
+            "Si saint Jacques est serein, l'hiver sera dur et chagrin."
+        ], 
+        "fete": "Saint Jacques"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "De sainte Anne à saint Laurent, plante des raves en tout temps.", 
+            "Pour la sainte Anne s'il pleut, trente jours seront pluvieux.", 
+            "Si les fourmis s'agitent à la sainte Anne, l'orage descend de la montagne."
+        ], 
+        "fete": "Saint Anne"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Pour leur fête souvent, les sept dormants redressent le temps."
+        ], 
+        "fete": "Sainte Nathalie"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "À la saint Samson, le temps est bon."
+        ], 
+        "fete": "Saint Samson"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Mauvais temps le jour de sainte Marthe, n'est rien, car il faut qu'il parte.", 
+            "Ne crains pas du mauvais temps de sainte Marthe, vite, il faut qu'il parte.", 
+            "Souvent quand saint Lazare appelle le froid, il n'en reste pas."
+        ], 
+        "fete": "Sainte Marthe"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "À la sainte Juliette, l'été est en fête.", 
+            "À la saint Abdon, mûrs sont les melons."
+        ], 
+        "fete": "Sainte Juliette"
+    }, 
+    {
+        "date": {
+            "mois": 7, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "Chaleur du jour de saint Germain, met à tous le pain dans la main.", 
+            "S'il pleut à la saint Germain, c'est comme s'il pleuvait du vin.", 
+            "Au jour de la saint Ignace, moissonne quelque temps qu'il fasse."
+        ], 
+        "fete": "Saint Ignace"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Qui se marie le 1<sup>er</sup> août, la corde il se met au cou.", 
+            "Gardez-vous de mai chaleureux autant que d'août fangeux.", 
+            "S'il pleut à la saint Pierre-ès-Liens, les noisettes ne vaudront rien.", 
+            "Lorsqu'il pleut au 1<sup>er</sup> août, les noisettes sont piquées de poux.", 
+            "S'il pleut à la saint Pierre-ès-Liens, les noisettes viendront bien.", 
+            "Chaleurs de mai, fanges d'août, ne font ni grand blé, ni grand moût.", 
+            "Quand il pleut en août, il pleut miel et moût.", 
+            "Les brouillards d'août emportent les châtaignes.", 
+            "Qui dort en août, dort à son coût.", 
+            "Ce qu'août n'aura cuit, août ne le rôtira.", 
+            "Quand il pleut en août, il pleut du miel et du vin."
+        ], 
+        "fete": "Saint Alphonse"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "À la saint Etienne, chacun trouve la sienne.", 
+            "À la saint Eusèbe, au plus tard fais battre la gerbe."
+        ], 
+        "fete": "Saint Julien"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Tels les trois premiers jours d'août, tel le temps de l'automne.", 
+            "Il faut cueillir les choux, l'un des trois premiers jours d'août."
+        ], 
+        "fete": "Sainte Lydie"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Août donne goût.", 
+            "Pour leur fête souvent, les sept dormants redressent le temps."
+        ], 
+        "fete": " Saint Jean-Marie"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Jamais d'août la sécheresse, n'amènera la richesse.", 
+            "À la saint Abel, faites vos confitures de mirabelles."
+        ], 
+        "fete": "Saint Abel"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Août pluvieux, cellier vineux.", 
+            "Au mois d'août, le vent est fou."
+        ], 
+        "fete": "Sainte Marlène"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "Le mois d'août est toujours chaud, quand le premier de l'an est beau.", 
+            "Qui bat son blé au mois d'août, bat à son goût."
+        ], 
+        "fete": "Saint Gaëtan"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "À la saint Dominique, te plains pas si le soleil pique."
+        ], 
+        "fete": "Saint Dominique"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Ce qu'août ne mûrit pas, ce n'est pas août qui le fera.", 
+            "Mois d'août pluvieux, rend le cep vineux.", 
+            "saint Mathias casse la glace, mais s'il n'en trouve pas il faut bien qu'il en fasse."
+        ], 
+        "fete": "Saint Amour"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "S'il pleut pour saint Laurent, la pluie est bien à temps.", 
+            "Saint Laurent partage l'été par le milieu.", 
+            "Saint Laurent arrange les blés noirs.", 
+            "Pour la saint Laurent, tout fruit est bon pour les dents.", 
+            "De saint Laurent à Notre-Dame, la pluie n'afflige pas l'âme.", 
+            "Qui sème pour saint Laurent, y perd la graine et puis le temps."
+        ], 
+        "fete": "Saint Laurent"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Si, le jour de sainte Claire, la journée est chaude et claire,", 
+            "Comptez sur les fruits à couteau, à coup sûr ils seront beaux.", 
+            "À la sainte Suzanne, veau bien venu qui tête.", 
+            "À la sainte Claire, s'il éclaire et tonne, c'est l'annonce d'un bel automne."
+        ], 
+        "fete": "Sainte Claire"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Quiconque en août s'endormira, en janvier s'en repentira."
+        ], 
+        "fete": "Sainte Clarisse"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Le temps du 13 août, dure quatre jours.", 
+            "S'il pleut le jour de sainte Radegonde, la misère s'abat sur le monde.", 
+            "S'il pleut le jour de sainte Radegonde, misère abonde dans le monde.", 
+            "À la sainte Radegonde quand l'eau abonde, la misère est dans le monde."
+        ], 
+        "fete": "Saint Hyppolyte"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "À la saint Eusèbe, ponte de poule est faible.", 
+            "À la saint Eusèbe, un temps sec grossit la gerbe.", 
+            "Temps trop beau en août, annonce hiver en courroux."
+        ], 
+        "fete": "Saint Ervard"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Le 15 août le coucou perd son chant, c'est la caille qui le reprend.", 
+            "S'il pleut pour l'Assomption, tout va en perdition.", 
+            "Pluie de l'Assomption, huits jours de mouillon.", 
+            "S'il pleut à Notre-Dame même, chacun encore l'aime.", 
+            "Au 15 août gros nuages en l'air, c'est la neige pour l'hiver.", 
+            "La vierge du 15 août, arrange et défait tout.", 
+            "Du soleil à l'Assomption, beaucoup de vin et du bon.", 
+            "À la mi-août, l'hiver se noue.", 
+            "Temps sec en août, et gros nuages bleus, neige pour l'hiver.", 
+            "Tonnerre au mois d'août, abondance de grappes et bon moût.", 
+            "Quiconque se marie en août, souvent n'arrose rien du tout.", 
+            "Quand mi-août est bon, abondance à la maison."
+        ], 
+        "fete": "Assomption"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "De saint Roch la grande chaleur, prépare du vin la couleur.", 
+            "Après saint Roch, aiguise ton soc."
+        ], 
+        "fete": "Sainte Armel"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "À la saint Hyacinthe, on peut semer sans crainte."
+        ], 
+        "fete": "Saint Hyacinthe"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "À la sainte Hélène, la noix est pleine et le cerneau se met dans l'eau."
+        ], 
+        "fete": "Sainte Hélène"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Quand août est pluvieux, août est radieux.", 
+            "Août tarit les fonts, ou emporte les ponts."
+        ], 
+        "fete": "Saint Jean-Eudes"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Quand arrive la saint Bernard, si tu n'es pas en retard,", 
+            "Ton blé n'est plus sous le hangar, et le moissonneur a sa part."
+        ], 
+        "fete": "Sainte Bernard"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Je suis le mois d'août où nul loisir on ne peut prendre ou séjourner,", 
+            "Mais faucher faner par plaisir, mettre en grange, battre et vanner."
+        ], 
+        "fete": "Saint Christophe"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Belettes blanches de la saint Symphorien, annoncent que l'hiver est en chemin."
+        ], 
+        "fete": "Sainte Fabrice"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "À la sainte Rose, pour le travailleur pas de pause.", 
+            "La nuit d'août, trompe les sages et les fous."
+        ], 
+        "fete": "Sainte Rose"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "S'il pleut à la saint Barthélemy, chacun en fait fi.", 
+            "À la saint Barthélemy, la noix quitte son nid.", 
+            "À la saint Barthélemy, paie ton dû.", 
+            "À la saint Barthélemy, la grenouille sort de son nid.", 
+            "À la saint Barthélémy la perche au noyer, le trident au fumier."
+        ], 
+        "fete": "Sainte Barthélémy"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Beau temps pour la saint Louis, plusieurs jours sans pluie.", 
+            "À la saint Louis le foin non rentré, est à moitié gâté."
+        ], 
+        "fete": "Saint Louis"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "À la saint Césaire, la dernière forte chaleur en l'air."
+        ], 
+        "fete": "Sainte Natacha"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Soleil rouge en août, c'est de la pluie partout."
+        ], 
+        "fete": "Sainte Monique"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "C'est comme s'il pleuvait du vin, fine pluie à saint Augustin.", 
+            "À la saint Augustin, le soleil a grillé le serpolet et le thym."
+        ], 
+        "fete": "Saint Augustin"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Pluie à la sainte Sabine, est une grâce divine.", 
+            "Quand les hirondelles voient la saint Michel, l'hiver ne vient qu'à Noël."
+        ], 
+        "fete": "Sainte Sabine"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "À la saint Fiacre soleil ardent, pour huit jours encore du beau temps.", 
+            "De la pluie en août, n'en faut pas du tout."
+        ], 
+        "fete": "Saint Fiacre"
+    }, 
+    {
+        "date": {
+            "mois": 8, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "En août et en vendanges, il n'y a ni fêtes ni dimanches.", 
+            "Août mûrit août vendange, en ces deux mois tout bien s'arrange.", 
+            "Temps trop beau en août, annonce un hiver en courroux."
+        ], 
+        "fete": "Saint Aristide"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Septembre détruit les ponts ou tarit les fontaines.", 
+            "Pluie de septembre, joie du paysan.", 
+            "Septembre se nomme, le mai de l'automne.", 
+            "Orages de Septembre, neiges de Décembre.", 
+            "À la saint Loup, l'ail à la terre.", 
+            "En Septembre, les fainéants peuvent s'en aller pendre.", 
+            "Quand septembre est venu, si la cigale chante, n'achète point de blé pour le remettre en vente.", 
+            "En septembre quand l'osier fleurit, le fruit mûrit.", 
+            "Août mûrit septembre vendange, en ces deux mois tout bien s'arrange.", 
+            "Quand la cigale chante en septembre, n'achète pas de blé pour le revendre.", 
+            "S'il fait beau à la saint Gilles, cela durera jusqu'à la saint Michel."
+        ], 
+        "fete": "Saint Gilles"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Septembre se nomme, le mois de l'automne.", 
+            "En septembre, le fainéant peut aller se pendre."
+        ], 
+        "fete": "Sainte Ingrid"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "À la saint Grégoire, il faut tailler la vigne pour boire.", 
+            "Pluie de la saint Grégoire, autant de vin en plus à boire."
+        ], 
+        "fete": "Saint Grégoire"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Quand il pleut pour les quatre temps, il faut piquer les boeufs et les juments.", 
+            "Septembre nous produit, le plus délectable des fruits."
+        ], 
+        "fete": " Sainte Rosalie"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Septembre humide, pas de tonneau vide.", 
+            "En septembre si trois jours il tonne, c'est un nouveau bail pour l'automne."
+        ], 
+        "fete": "Sainte Raïssa"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Le vent qui domine aux Quatre Temps, dominera trois mois.", 
+            "À la saint Onésiphore, la sève s'endort."
+        ], 
+        "fete": "Saint Bertrand"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "À la saint Cloud sème ton blé, car ce jour vaut du fumier.", 
+            "À la saint Cloud, la lampe au clou.", 
+            "À la sainte Reine, sème tes graines."
+        ], 
+        "fete": "Sainte Reine"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Le temps de la nativité, dure tout un mois sans variété.", 
+            "La nativité de la Vierge fait fuir les hirondelles.", 
+            "Après la nativité, le regain ne peut plus sécher."
+        ], 
+        "fete": "Saint Adrien"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Septembre emporte les ponts, ou tarit les fontaines.", 
+            "Pluie de septembre travaille, à la vigne et à semailles."
+        ], 
+        "fete": "Saint Alain"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "À la sainte Inès, travaille sans cesse.", 
+            "Lorsque beaucoup d'étoiles filent en septembre, les tonneaux sont trop petits en novembre."
+        ], 
+        "fete": "Sainte Inès"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Tu peux semer sans crainte, quand arrive la saint Hyacinthe.", 
+            "En septembre si trois jours il tonne, c'est un nouveau bail pour l'automne."
+        ], 
+        "fete": "Saint Adelphe"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "En septembre si tu es prudent, achète grains et vêtements.", 
+            "Septembre en sa tournure, de mars fait la figure."
+        ], 
+        "fete": "Saint Apollinaire"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Le coq en septembre chantant la matinée, annonce une abondante rosée.", 
+            "Septembre humide, pas de tonneaux vides."
+        ], 
+        "fete": "Saint Aimé"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "À la sainte Croix, cueille les pommes et gaule les noix."
+        ], 
+        "fete": "Sainte Materne"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "La rosée de saint Albin, est, dit-on, rosée de vin."
+        ], 
+        "fete": "Saint Roland"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Bel automne vient plus souvent que beau printemps.", 
+            "Orages de septembre, neiges de décembre."
+        ], 
+        "fete": "Sainte Edith"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Saint Lambert pluvieux, neuf jours dangereux.", 
+            "Le jour de la saint Lambert, qui quitte sa place la perd.", 
+            "La pluie du jour de saint Lambert, il y en a pour un novenaire."
+        ], 
+        "fete": "Saint Renaud"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Froid à la saint Joseph, annonce pour bientôt la neige.", 
+            "L'hirondelle en septembre abandonne le ciel refroidi de l'automne."
+        ], 
+        "fete": "Sainte Nadège"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Qui sème à la saint Janvier, de l'an récolte le premier.", 
+            "À la saint Janvier, les chrysanthèmes repoussent du pied."
+        ], 
+        "fete": "Saint Emilie"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Gelée blanche de saint Eustache, grossit le raisin qui tache.", 
+            "Pour saint Agapit, si tu ne veux pas suer enlève tes habits."
+        ], 
+        "fete": "Sainte Davy"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Quand il pleut à la saint Matthieu, fais coucher tes vaches et tes bœufs.", 
+            "Le lendemain de saint Matthieu, tu sèmes je sème.", 
+            "Si saint Matthieu pleure au lieu de rire, le vin en vinaigre vire.", 
+            "Automne en fleurs, hiver plein de rigueurs.", 
+            "Quand vient saint Matthieu, à l'été on dit adieu.", 
+            "À la saint Matthieu les jours, sont égaux aux nuits dans leur cours."
+        ], 
+        "fete": "Saint Matthieu"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Sème tes blés à la saint Maurice, tu en auras à ton caprice.", 
+            "Semis de saint Maurice, récolte à ton caprice.", 
+            "Sème tes pois à la saint Maurice, tu en auras à ton caprice."
+        ], 
+        "fete": "Saint Maurice"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "Orages de septembre, neiges de décembre.", 
+            "À la saint Lin, fais rouir le lin.", 
+            "À la saint Lin, récolte ton lin."
+        ], 
+        "fete": "Automne"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "En septembre, la bruine, est toujours bonne à la vigne.", 
+            "À la saint Gérard, les noix sont mûres pour toi et pour moi."
+        ], 
+        "fete": "Saint Thècle"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Brouillards d'automne, beau temps nous donnent.", 
+            "À la saint Firmin, l'hiver est en chemin.", 
+            "À la saint Firmin, les beaux jours rebroussent chemin.", 
+            "À la saint Firmin, bois pas trop de vin.", 
+            "À la saint Firmin, les blés battent au vent."
+        ], 
+        "fete": "Saint Hermann"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Priez saint Côme et saint Damien, vous vous porterez toujours bien."
+        ], 
+        "fete": "Saint Côme"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Pluie de septembre travaille, à la vigne et à la semaille."
+        ], 
+        "fete": "Saint Vincent"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "Septembre en sa tournure, de mars fait la figure.", 
+            "Forte chaleur en septembre, à pluie d'octobre il faut s'attendre."
+        ], 
+        "fete": "Saint Vencesclas"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Quand les hirondelles voient la saint Michel, l'hiver ne vient qu'à Noël.", 
+            "Pluie de saint Michel sans orage, d'un hiver clément le présage.", 
+            "À la saint Michel, cueille ton fruit tel quel.", 
+            "À la saint Michel, départ d'hirondelles.", 
+            "À la saint Michel, le goûter monte au ciel.", 
+            "À la saint Michel, tue l'abeille et goûte le miel.", 
+            "À la saint Michel, la graine de lin s'en retourne au ciel.", 
+            "À la saint Michel, la chaleur remonte au ciel.", 
+            "De saint Michel à la Toussaint, le labour en train.", 
+            "Quand le vent est au nord le jour de la saint Michel, le mois d'octobre est au sec.", 
+            "Pour la saint Michel, pour semer il est assez tôt.", 
+            "Il n'est plus après saint Michel de goûter qu'au ciel.", 
+            "Toutes les pluies perdues, à saint Michel rendues.", 
+            "Bise à la saint Michel, octobre sec."
+        ], 
+        "fete": "Saint Gabriel"
+    }, 
+    {
+        "date": {
+            "mois": 9, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "À la saint Jérôme, hoche tes pommes.", 
+            "Saint Jérôme venu, sors ta charrue.", 
+            "À la saint Jérôme garçon, il faut prendre de ta charrue des manchons."
+        ], 
+        "fete": "Saint Jérôme"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Octobre en bruine, hiver en ruine.", 
+            "En octobre tonnerre, fait vendanges prospères.", 
+            "À la saint Rémy, cul assis.", 
+            "À la saint Rémy, tout perdreau devient perdrix.", 
+            "Octobre le vaillant, surmène le paysan.", 
+            "En octobre, le vent met les feuilles au champs.", 
+            "Octobre ensoleillé, décembre emmitouflé.", 
+            "Brouillard d'octobre, pluie de novembre, font bon décembre.", 
+            "En octobre qui ne fume rien, ne récolte rien.", 
+            "À toujours donner des glands, les chênes se sèchent.", 
+            "Année qui produit beaucoup de glands, année d'abondance.", 
+            "Année qui produit beaucoup de noix, année de misère.", 
+            "Octobre à moitié pluvieux, rend le laboureur joyeux,", 
+            "Mais le vendangeur soucieux met de côté son vin vieux."
+        ], 
+        "fete": "Sainte Muriel"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Ne sème point au jour de saint Léger, tu auras du blé léger.", 
+            "À la saint Léger, faut se purger.", 
+            "Sème au jour de saint François, il te rendra grain de bon poids.", 
+            "Mais n'attends pas la saint Bruno, ton blé serait tout noiraud."
+        ], 
+        "fete": "Saint Léger"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Gelée d'octobre, rend le vigneron sobre.", 
+            "Octobre en gelées, chenilles trépassées.", 
+            "Si octobre est trop chaud, en février la glace est au carreau."
+        ], 
+        "fete": "Saint Gérard"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Sème le jour de saint François, ton blé aura plus de poids.", 
+            "Pour saint François, fait le haricot, paysan.", 
+            "À la saint François on sème, si l'on veut et plus tôt même.", 
+            "À la saint François d'Assise, si tu bâtis sois prudent pour tes assises."
+        ], 
+        "fete": " Saint François"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "À la saint Placide, le verger est vide.", 
+            "Quand arrive la sainte Fleur, pour aller au verger ce n'est plus l'heure."
+        ], 
+        "fete": "Sainte Fleur"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Pour la saint Thomas, allume si tu n'y vois pas.", 
+            "À la saint Thomas, les jours sont au plus bas.", 
+            "Le blé semé le jour de saint Bruno devient noir.", 
+            "Quand on sème à la saint Bruno, la rouille s'y mettra bientôt."
+        ], 
+        "fete": "Saint Bruno"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "À la saint Serge, achetez vos habits de serge.", 
+            "À la saint Serge la charrue en terre, pour niveler les taupinières."
+        ], 
+        "fete": "Saint Serge"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Belle gelée d'octobre, rend le vigneron beaucoup plus sobre.", 
+            "En octobre qui ne fume jamais rien, ne récolte jamais rien."
+        ], 
+        "fete": "Sainte Pélagie"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "S'il pleut le jour de saint Denis, l'hiver aura de la pluie.", 
+            "S'il pleut à la saint Denis, la rivière sort neuf fois de son lit.", 
+            "Il fait beau à la saint Denis, l'hiver sera bientôt fini.", 
+            "Qui sème à la saint Denis, comptera les semis.", 
+            "À la saint Denis, la bonne sémerie.", 
+            "Le jour de la saint Denis, le vent se marie à minuit.", 
+            "Où le vent couche à la saint Denis, il y reste les trois quarts de l'année.", 
+            "Si le temps est clair le jour de saint Denis, l'hiver sera rigoureux.", 
+            "Sème à la saint Denis, tu contempleras tes semis.", 
+            "Beau temps pour saint Denis, l'hiver sera bientôt fini."
+        ], 
+        "fete": "Saint Denis"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Temps pluvieux à la sainte Ghislaine, la fin du mois s'annonce vilaine.", 
+            "Temps sec à la saint Ghislain, annonce un hiver d'eau plein."
+        ], 
+        "fete": "Saint Ghislain"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "À la saint Firmin, l'hiver est en chemin."
+        ], 
+        "fete": "Saint Firmin"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Saint Wilfrid ensoleillé, deux jours plus tard emmitouflé.", 
+            "Octobre est bon s'il est de saison."
+        ], 
+        "fete": "Saint Wilfried"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Brouillards d'octobre et pluvieux novembre, font bon décembre.", 
+            "L'été de saint Géraud ne dure que trois jours."
+        ], 
+        "fete": "Saint Géraud"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Beaucoup de pluie en octobre, beaucoup de vent en décembre."
+        ], 
+        "fete": "Saint Juste"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "Quand octobre prend sa fin, dans la cuve est le raisin.", 
+            "À la sainte Aurélie, semailles sont finies.", 
+            "La gelée de sainte Thérèse, met les vignerons mal à l'aise.", 
+            "Souvent sainte Thérèse nous apporte un petit été."
+        ], 
+        "fete": "Sainte Thérèse"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Coupe ton chou à la saint Gall, en hiver c'est un vrai régal.", 
+            "Quand de saint Gall arrive l'heure, la vache à l'étable demeure."
+        ], 
+        "fete": "Sainte Edwige"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Si octobre est chaud, février sera froid."
+        ], 
+        "fete": "Saint Baudoin"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "À la saint Luc la pluie du vallon, fait de la neige sur le mont.", 
+            "À la saint Luc sème dru, ou ne sème plus.", 
+            "Lorsqu'il pleut dans le vallon le jour de saint Luc, l'eau qui tombe est neige sur la montagne.", 
+            "À la saint Luc, il faut semer, que la terre soit molle ou dure.", 
+            "À la saint Luc ne sème plus, ou sème dru."
+        ], 
+        "fete": "Saint Luc"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "Pour la saint René, des vêtements chauds tu remets.", 
+            "À la saint René, couvre ton nez."
+        ], 
+        "fete": "Saint René"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Octobre glacé, fait vermine trépasser."
+        ], 
+        "fete": "Sainte Adeline"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "À la sainte Ursule, le temps parfois est un petit printemps.", 
+            "À la sainte Ursule, le froid recule."
+        ], 
+        "fete": "Sainte Céline"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "À la saint Vallier, faut qu'il y ait du bois au bûcher.", 
+            "Pour la saint Vallier, le bois doit être rentré au bûcher."
+        ], 
+        "fete": "Sainte Elodie"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "À la saint Hyacinthe, on peut semer sans crainte.", 
+            "À la saint Séverin, chauffe tes reins."
+        ], 
+        "fete": "Saint Simon"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "À la saint Raphaël, la chaleur monte au ciel.", 
+            "À la saint Renobert, mets les choux par terre.", 
+            "Quand arrive la saint Magloire, vigneron sait ce qu'il peut boire.", 
+            "Souvent à la saint Florentin, l'hiver laisse son chemin."
+        ], 
+        "fete": "Saint Florentin"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Pour saint Crépin, mort aux mouches.", 
+            "À la saint Crépin, les mouches voient leur fin."
+        ], 
+        "fete": "Saint Crépin"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "À la saint Amand, sont mûrs les glands."
+        ], 
+        "fete": "Saint Dimitri"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "À la sainte Antoinette, la neige s'apprête."
+        ], 
+        "fete": "Saint Emeline"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "À la saint Remi, perdreau vaut perdrix.", 
+            "Quand saint Simon et saint Jude n'apportent pas la pluie, elle n'arrive qu'à sainte Cécile.", 
+            "À la saint Simon, une mouche vaut un mouton.", 
+            "À la saint Simon, une mouche vaut un pigeon.", 
+            "Raisin cueilli à saint Simon, ne donne pas un vin bien bon.", 
+            "Quand on voit des mouches à la saint Simon, les fermiers peuvent chanter une chanson.", 
+            "À la sainte Simone, il faut avoir rentré ses pommes.", 
+            "À la saint Remi, la grande chaleur est finie."
+        ], 
+        "fete": "Sainte Jude"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "Neige le jour de saint Narcisse, pour le blé est un bénéfice.", 
+            "Saint Narcisse, de six à six.", 
+            "Octobre au coin du feu, fait venir le leu."
+        ], 
+        "fete": "Sainte Narcisse"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "Quand octobre prend sa fin, dans la cave est le vin.", 
+            "Si octobre se fait froid, du vin chaud tu boiras.", 
+            "Si octobre s'emplit de vents, du froid tu pâtiras longtemps."
+        ], 
+        "fete": "Saint Bienvenue"
+    }, 
+    {
+        "date": {
+            "mois": 10, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "À la saint Quentin, cheminée allumée tu seras bien.", 
+            "Pour la saint Quentin, couvre-toi les reins.", 
+            "À la saint Quentin, la chaleur a sa fin.", 
+            "À la fin du mois blé semé, aussi tout le fruit renfermé."
+        ], 
+        "fete": "Saint Quentin"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Tonnerre en novembre fait prospérer le blé, et remplit le grenier.", 
+            "À la Toussaint, commence l'été de la saint Martin.", 
+            "Vent de Toussaint, terreur de marin.", 
+            "Suivant le temps de la Toussaint, l'hiver sera ou non malsain.", 
+            "Brumes en novembre, Noël en décembre.", 
+            "Hiver trop beau, été sans eau.", 
+            "De la Toussaint à la fin de l'Avent, jamais trop de pluie ou de vent.", 
+            "Le bon semer est quinze jours avant Toussaint, et quinze jours après.", 
+            "Telle Toussaint tel Noël, et Pâques pareil.", 
+            "Le vent soufflera les trois quarts de l'année comme il souffle la veille de la Toussaint.", 
+            "À la Toussaint, les blés semés, les fruits serrés.", 
+            "Autant d'heures de soleil à la Toussaint, autant de semaines à souffler dans tes mains.", 
+            "Été de la saint Martin, dure trois jours et un brin.", 
+            "En novembre s'il tonne, l'année sera bonne."
+        ], 
+        "fete": "Toussaint"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Novembre, Toussaint le commande, saint André le voit descendre.", 
+            "Novembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort."
+        ], 
+        "fete": "Défunts"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Si l'hiver va son chemin, il commence à la saint Martin.", 
+            "Si la lune est à son croissant à la saint Martin, c'est le signe d'un hiver mou et pluvieux.", 
+            "À saint Martin bois le bon vin, et laisse l'eau pour le moulin.", 
+            "La pleine lune à la saint Martin donne abondance de neige.", 
+            "Il fait beau de semer son grain quand est beau l'été de la saint Martin.", 
+            "Si les rivières débordent avant la saint Martin, elles sont toujours là ou en chemin.", 
+            "Brouillard en Novembre, l'hiver sera tendre.", 
+            "À la saint Hubert, les oies sauvages fuient l'hiver."
+        ], 
+        "fete": "Saint Hubert"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "La Toussaint venue, rentre la charrue.", 
+            "À la saint Charles, la gelée parle."
+        ], 
+        "fete": " Saint Charles"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Le cinq tu sauras, quel mois tu auras."
+        ], 
+        "fete": "Sainte Sylvie"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "À la sainte Mélanie de la pluie n'en veux mie.", 
+            "Quand en novembre il a tonné, l'hiver est avorté.", 
+            "Quand en novembre tu entends la grive chanter, rentre à la maison pour t'abriter et du bois pour te chauffer."
+        ], 
+        "fete": "Sainte Bertille"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "À la saint Florent il fait bon de semer le froment, mais il ne faut pas perdre de temps.", 
+            "À la saint Ernest, abats les pommes qui te restent."
+        ], 
+        "fete": "Sainte Carine"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Grand soleil petit vent, petit soleil grand vent.", 
+            "Temps couvert à la saint Geoffroy, amène trois jours de froid."
+        ], 
+        "fete": "Saint Geoffroy"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "Quand en automne il a tonné, l'hiver est avorté.", 
+            "Orage de la saint Théodore, annonce une année en or.", 
+            "La saint Mathurin, des fruits rouges c'est la fin."
+        ], 
+        "fete": "Saint Théodore"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "Soleil rouge le matin, fait trembler le marin.", 
+            "À la saint Léon, mets tes artichauts en monts."
+        ], 
+        "fete": "Saint Léon"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Saint Martin, saint Tourmentin.", 
+            "Le temps du jour de saint Martin, est de l'hiver le temps commun.", 
+            "S'il fait beau le jour de la saint Martin, bonne récolte, s'il pleut, moisson molle.", 
+            "S'il pleut le jour de la saint Martin bouillant, il pleut six semaines durant.", 
+            "Si le vent du sud souffle pour la saint Martin, l'hiver ne sera pas coquin.", 
+            "Quand saint Martin amène le vent d'autan, cela dure six mois par an.", 
+            "À la saint Martin tire ton vin, saint Martin le met en chemin.", 
+            "Quand saint Martin amène le vent d'autan, cela dure six mois par an.", 
+            "À la saint Martin bois le vin, et laisse l'eau au moulin.", 
+            "Et s'il trouve quelque encombrée, vous l'aurez à la saint André.", 
+            "À la saint Martin l'hiver est en chemin, manchons aux bras et gants aux mains."
+        ], 
+        "fete": "Armistice 1918"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "Temps sanguin, annonce pluie du lendemain."
+        ], 
+        "fete": "Saint Christian"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "À la saint Brice le temps, sera celui du jour de l'An."
+        ], 
+        "fete": "Saint Brice"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Si en novembre il tonne, l'année suivante sera bonne."
+        ], 
+        "fete": "Sainte Sidoine"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "À la saint Léopold, couvre-toi les épaules.", 
+            "En novembre fou engendre, en août gît sa femme."
+        ], 
+        "fete": "Saint Albert"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "À la saint Matthieu les jours sont égaux aux nuits dans leur cours.", 
+            "Quand vient saint Matthieu, adieu l'été.", 
+            "Brouillard en novembre, l'hiver sera tendre."
+        ], 
+        "fete": "Sainte Marguerite"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "À la sainte élizabeth, tout ce qui porte fourrure n'est point bête.", 
+            "Sainte Elisabeth nous montre quel bonhomme l'hiver sera.", 
+            "À la mi-novembre passée, il peut venter et neiger à souhait.", 
+            "Quand il gèle en novembre, adieu l'herbe tendre."
+        ], 
+        "fete": "Sainte Elisabeth"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "Gelée de novembre, adieu l'herbe tendre."
+        ], 
+        "fete": "Sainte Aude"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "À la saint Tanguy, le temps est toujours gris.", 
+            "Sainte Elisabeth nous montre quel bonhomme sera l'hiver.", 
+            "À la saint Tanguy, jamais vent ne languit."
+        ], 
+        "fete": "Saint Tanguy"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Entre la Toussaint et l'Avent, attends-toi à pluie et vent.", 
+            "Saint Félix et la Présentation amènent le froid pour de bon."
+        ], 
+        "fete": "Saint Edmond"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "Quelque temps qu'il fasse en novembre, commence le feu dans la chambre."
+        ], 
+        "fete": "Présentation"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Pour sainte Cécile, chaque haricot en fait mille.", 
+            "Pour sainte Cécile, chaque fève en fait mille."
+        ], 
+        "fete": "Sainte Cécile"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "À la fête de saint Clément, cesse, dans tous les cas, de semer le froment.", 
+            "Quand l'hiver vient doucement, il est là à la saint Clément.", 
+            "Saint Clément montre rarement visage avenant."
+        ], 
+        "fete": "Saint Clément"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "À la sainte Flora, plus rien ne fleurira."
+        ], 
+        "fete": "Sainte Flora"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Quand sainte Catherine au ciel fait la moue, il faut patauger longtemps dans la boue.", 
+            "À la sainte Catherine, tout arbre prend racine.", 
+            "Pour sainte Catherine, tout bois prend racine.", 
+            "À la sainte Catherine, pour tout l'hiver fait ta farine.", 
+            "À sainte Catherine fais moudre ton blé, car à saint André le bief sera gelé.", 
+            "Pour sainte Catherine, le porc couine.", 
+            "À la sainte Catherine que le blé ait germé, que l'herbe commence à poindre.", 
+            "À la sainte Catherine, les sardines tournent l'échine, à la sainte Blaise elles reparaissent.", 
+            "Sainte Catherine toute fille veut la fêter, mais point ne veut la coiffer.", 
+            "À la sainte Catherine, l'hiver s'achemine ; s'il fait froid, hiver tout droit."
+        ], 
+        "fete": "Sainte Catherine"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "À la sainte Delphine, mets ton manteau à pèlerine."
+        ], 
+        "fete": "Sainte Delphine"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "À la saint Séverin, chauffe tes reins.", 
+            "Quand en novembre, la pluie noie la terre, ce sera du bien pour tout l'hiver."
+        ], 
+        "fete": "Saint Séverin"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "À la saint Sosthène, il y a des chrysanthèmes.", 
+            "À la saint Sosthène, les poules sur le chemin ne trouvent plus de graines.", 
+            "S'il neige à la saint Hilaire, il fera froid tout l'hiver."
+        ], 
+        "fete": "Sainte Jacques"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "À la saint Saturnin, l'hiver est pour demain.", 
+            ""
+        ], 
+        "fete": "Saint Saturnin"
+    }, 
+    {
+        "date": {
+            "mois": 11, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "À la saint André, l'hiver dit : Me voici !", 
+            "La neige dit : À saint André, si ne suis, bientôt je serai.", 
+            "Neige de saint André, peut cent jours durer.", 
+            "Quand l'hiver n'est pas pressé, il arrive à la saint André.", 
+            "Pour saint André, l'hiver est vite ici.", 
+            "La neige de saint André, menace cent jours de durer."
+        ], 
+        "fete": "Saint André"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 1
+        }, 
+        "quotes": [
+            "Décembre, le mois de l'Avent, c'est pluie ou vent.", 
+            "Décembre aux pieds blancs s'en vient ; An de neige est an de bien.", 
+            "Décembre de froid trop riche, ne fait pas le paysan riche.", 
+            "Tonnerre en décembre fait prospérer le blé, et remplit le grenier.", 
+            "Si à la saint éloi tu brûles ton bois, tu auras froid pendant trois mois.", 
+            "Notre-Dame de l'Avent, pluie et vents, et bonnets sur les dents.", 
+            "Pluie d'orage dans les Avents, empêche l'hiver d'arriver en son temps.", 
+            "La neige des Avents a de longues dents.", 
+            "Quand les Avents sont secs, l'année sera abondante.", 
+            "Dans l'Avent, le temps chaud, remplit caves et tonneaux.", 
+            "Tel Avent, tel printemps.", 
+            "Lorsque saint éloi a bien froid, quatre mois dure le grand froid.", 
+            "Il faut les avents froids et secs, si l'on veut boire sec.", 
+            "En décembre s'il tonne, l'année sera bonne."
+        ], 
+        "fete": "Sainte Florence"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 2
+        }, 
+        "quotes": [
+            "Décembre, Toussaint le commande, saint André le voit descendre.", 
+            "Décembre est le jour des morts, si tu ne veux pas mourir encore, habille-toi plus fort."
+        ], 
+        "fete": "Sainte Viviane"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 3
+        }, 
+        "quotes": [
+            "Décembre prend, il ne rend.", 
+            "Quand secs sont les avants, abondant sera l'an.", 
+            "Huit jours de neige c'est fumure, huit jours au-delà c'est poison."
+        ], 
+        "fete": "Saint Xavier"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 4
+        }, 
+        "quotes": [
+            "Qui est sainte Barbe, qui est Noël, qui est Noël, qui est l'an.", 
+            "Pour la sainte Barbe, l'âne se fait la barbe.", 
+            "À la sainte Barbe, soleil peu darde."
+        ], 
+        "fete": " Sainte Barbara"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 5
+        }, 
+        "quotes": [
+            "Le tonnerre en décembre annonce pour l'an qui vient,", 
+            "Aux bêtes et aux gens, abondance de biens.", 
+            "Si décembre et janvier ne font leur chemin, février fait le lutin."
+        ], 
+        "fete": "Saint Gérald"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 6
+        }, 
+        "quotes": [
+            "Neige à la saint Nicolas donne froid pour trois mois.", 
+            "Saint Nicolas fait les bons mariages, guérit de la fièvre et de la rage.", 
+            "Le jour de la saint Nicolas décembre est le moins froid.", 
+            "Saint Nicolas marie les filles avec les gars.", 
+            "À la saint Nicolas, l'hiver est souvent las."
+        ], 
+        "fete": "Saint Nicolas"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 7
+        }, 
+        "quotes": [
+            "À la saint Ambroise, du froid pour huit jours.", 
+            "Quand saint Ambroise voit neiger, de huit jours de froid sommes en danger."
+        ], 
+        "fete": "Saint Ambroise"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 8
+        }, 
+        "quotes": [
+            "Jour de l'Immaculée, ne passe jamais sans gelée."
+        ], 
+        "fete": "Immaculée Conception"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 9
+        }, 
+        "quotes": [
+            "De sainte Léocadie à sainte Nicaise, les gelées naissent."
+        ], 
+        "fete": "Saint Pierre"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 10
+        }, 
+        "quotes": [
+            "À la sainte Julie, le soleil ne quitte pas son lit."
+        ], 
+        "fete": "Saint Romaric"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 11
+        }, 
+        "quotes": [
+            "Tel temps à la saint Daniel, même temps à Noël.", 
+            "Visite les ruches à la saint Daniel, mais garde-toi d'ôter le miel."
+        ], 
+        "fete": "Saint Daniel"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 12
+        }, 
+        "quotes": [
+            "À la saint Corentin, le plein hiver glace le chemin."
+        ], 
+        "fete": "Sainte Chantal"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 13
+        }, 
+        "quotes": [
+            "Les jours après la sainte Luce, diffèrent du saut d'une puce.", 
+            "À la sainte Luce, le jour croît d'un saut de puce."
+        ], 
+        "fete": "Sainte Lucie"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 14
+        }, 
+        "quotes": [
+            "Quand en hiver est été mais en été l'hivernée, cette contrariété ne fit jamais bonne année."
+        ], 
+        "fete": "Sainte Odile"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 15
+        }, 
+        "quotes": [
+            "À la saint Ninon, décembre trop beau, été dans l'eau.", 
+            "Quand il tonne hors saison, pluie ou neige sans raison.", 
+            "À la sainte Ninon, la rosée du matin fait l'âne cochon.", 
+            "Soleil de sainte Nina, pour un long hiver rentre ton bois."
+        ], 
+        "fete": "Sainte Ninon"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 16
+        }, 
+        "quotes": [
+            "Le mois de l'Avent est de pluie et de vent, tire ton bonnet jusqu'aux dents.", 
+            "Froid et neige en décembre, du blé à revendre."
+        ], 
+        "fete": "Sainte Lucie"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 17
+        }, 
+        "quotes": [
+            "Quand secs sont les Avents, abondant sera l'an."
+        ], 
+        "fete": "Saint Gaël"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 18
+        }, 
+        "quotes": [
+            "À la saint Gatien, Le temps ne vaut rien.", 
+            "À la saint Gatien, Vilain, ramasse ton bois, et endors-toi."
+        ], 
+        "fete": "Saint Gatien"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 19
+        }, 
+        "quotes": [
+            "En décembre fais du bois, et endors-toi.", 
+            "Décembre aux pieds blancs s'en vient : An de neige est an de bien."
+        ], 
+        "fete": "Saint Urbain"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 20
+        }, 
+        "quotes": [
+            "Au vingt de Noël, les jours rallongent d'un pas d'hirondelle."
+        ], 
+        "fete": "Saint Théophile"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 21
+        }, 
+        "quotes": [
+            "À la saint Thomas, les jours sont au plus bas.", 
+            "S'il gèle à la saint Thomas, il gèlera pour trois mois.", 
+            "Si l'hiver est chargé d'eau, l'été ne sera que plus beau.", 
+            "Hiver rude et tardif, rend le pommier productif.", 
+            "Pour saint Thomas, tue ton porc maigre ou gras.", 
+            "En hiver au feu, et en été au bois et au jeu.", 
+            "Serein hiver et pluie d'été, ne font jamais pauvreté.", 
+            "Autant de jours d'hiver passés, autant d'ennemis renversés.", 
+            "Neige de décembre est engrais pour la terre."
+        ], 
+        "fete": "Hiver"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 22
+        }, 
+        "quotes": [
+            "Décembre trop beau, été dans l'eau."
+        ], 
+        "fete": "Saint Gratien"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 23
+        }, 
+        "quotes": [
+            "À la saint évariste, jour de pluie, jour triste."
+        ], 
+        "fete": "Saint Armand"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 24
+        }, 
+        "quotes": [
+            "Beau temps à sainte Adèle est un cadeau du ciel.", 
+            "Entre sainte Adèle et saint Vincent les gelées ont plus de mordant."
+        ], 
+        "fete": "Sainte Adèle"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 25
+        }, 
+        "quotes": [
+            "Noël au perron, Pâques aux tisons.", 
+            "Noël au balcon, Pâques au tison.", 
+            "Beaucoup de paille et peu de blé, quand Noël est éclairé.", 
+            "Lune de noël gouverne le temps jusqu'à la saint Jean.", 
+            "À Noël les moucherons, à Pâques les glaçons.", 
+            "Soleil à Noël, neige à Pâques.", 
+            "À Noël la chaleur, à Pâques la froideur.", 
+            "Qui prend le soleil à Noël, à Pâques se gèle.", 
+            "Qui à Noël cherche l'ombrier, à Pâques cherche le foyer.", 
+            "Quand tu prends à Noël le soleil, à Pâques tu te rôtis l'orteil.", 
+            "Qui à Noël se chauffe au soleil, à Pâques brûle la bûche de Noël.", 
+            "Noël au jeu, Pâques au feu.", 
+            "Verte fête de Noël, Blanche fête de Pâques.", 
+            "Quand Noël est dans l'obscurité (sans lune), beaucoup de blé dans les champs ; quand Noël est éclairé, beaucoup de paille et peu de blé.", 
+            "Noël sans lune, sur trois brebis il n'en reste qu'une.", 
+            "Pleine lune le jour de Noël, cherté ; vendez votre jument et du grain achetez.", 
+            "Claire nuit de Noël, claires javelles.", 
+            "Les jours entre Noël et les Rois, indiquent le temps des douze mois.", 
+            "Quand Noël est étoilé, force paille, guère de blé.", 
+            "Quand Noël vient en clarté, vends tes bœufs et ta charrette pour acheter du blé.", 
+            "Le jour de Noël humide, donne grenier et tonneau vides.", 
+            "À Noël tonnerre, pas d'hiver.", 
+            "Quand pour Noël on s'ensoleille, pour Pâques on brûle le bois.", 
+            "Vent qui souffle à la sortie de la messe de minuit, dominera l'an qui suit.", 
+            "De la Noël au trente, d'un pas de coq le jour augmente.", 
+            "À la Noël, les froids les plus durs font les épis les plus sûrs.", 
+            "Tel jour Noël, jour de l'an tel.", 
+            "De la Noël jusqu'à janvier, pelleverse ton chenevier."
+        ], 
+        "fete": "Noël"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 26
+        }, 
+        "quotes": [
+            "Le jour de la saint Denis, le vent se marie à minuit.", 
+            "À la saint Etienne, chacun trouve la sienne.", 
+            "Pluie à saint Denis, tout l'hiver la pluie."
+        ], 
+        "fete": "Saint Etienne"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 27
+        }, 
+        "quotes": [
+            "Les jours entre Noël et les Rois, indiquent le temps des douze mois.", 
+            "À la saint Jean d'hiver, les feux sont grands."
+        ], 
+        "fete": "Saint Jean"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 28
+        }, 
+        "quotes": [
+            "S'il neige à la sainte Eléonore, Les récoltes seront d'or.", 
+            "Décembre trop beau, l'été dans l'eau."
+        ], 
+        "fete": "Innocents"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 29
+        }, 
+        "quotes": [
+            "À la saint Thomas, les jours sont au plus bas.", 
+            "Les froids de saint Evroult sont des froids de loup."
+        ], 
+        "fete": "Saint David"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 30
+        }, 
+        "quotes": [
+            "Quand il tonne hors saison, pluie et neige sans raison."
+        ], 
+        "fete": "Saint Roger"
+    }, 
+    {
+        "date": {
+            "mois": 12, 
+            "jour": 31
+        }, 
+        "quotes": [
+            "Neige de saint André, peut cent jours durer.", 
+            "La neige de saint André, menace cent jours de durer."
+        ], 
+        "fete": "Saint Sylvestre"
+    }
+]

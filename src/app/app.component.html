@@ -1,0 +1,96 @@
+<div class="mm-container">
+  <div class="mm-columns mm-column-date">
+    <div class="mm-column">
+      <div 
+      [ngStyle]="{'visibility': visibleTime ? 'visible' : 'hidden' }"
+      >
+        <p class="mm-date">{{now | date:'EEEE d MMMM'}}</p>
+        <p class="mm-time">{{now | date:'HH:mm'}}</p>
+        <p class="mm-ephemeris">{{ephemeris}}</p>
+      </div>
+      <div 
+      style="margin-top:50px; width: 300px;"
+      [ngStyle]="{'visibility': visibleNote ? 'visible' : 'hidden' }"
+      >
+        <fieldset style="height: 300px; width: auto; font-family: Poppins; border: 1px solid white;">
+          <legend
+          style="padding: 5px; width: 230px;">Leave a note here</legend>
+          <ul>
+            <li *ngFor="let note of notes">
+              {{note}}
+            </li>
+          </ul>
+        </fieldset>
+      </div>
+
+    </div>
+    <div class="mm-column mm-column-weather"       
+    [ngStyle]="{'visibility': visibleWeather ? 'visible' : 'hidden' }"
+    >
+      <p class="mm-city">{{city.name}}</p>
+      <div class="mm-today-weather">
+        <img src="{{ currentWeather.icon }}" alt="Temps"
+        style="height: 150px; width: auto;">
+        <p>{{currentWeather.weather | uppercase}}</p>
+      </div>
+      <div class="mm-today-temperature">
+        <div class="mm-current-temperature">
+          <img [src]="'assets/img/temperature.svg'" alt="Température">
+          <p>{{currentWeather.dayTemperature | number: '1.0-0'}}°C</p>
+        </div>
+        <div class="mm-today-temperature-minmax">
+          <p>{{ currentWeather.minTemperature | number: '1.0-0'}}°C</p>
+          <hr>
+          <p>{{currentWeather.maxTemperature | number: '1.0-0'}}°C</p>
+        </div>
+      </div>
+      <div class="mm-today-weather-details">
+        <div class="mm-today-weather-detail">
+          <img [src]="'assets/img/wind.svg'" alt="Wind speed">
+          <p>{{currentWeather.windSpeed | kilometersPerHour | number:'1.0-0' }} KM/H</p>
+        </div>
+        <div class="mm-today-weather-detail">
+          <img [src]="'assets/img/humidity.svg'" alt="Humidity">
+          <p>{{currentWeather.humidity}}%</p>
+        </div>
+      </div>
+      <ul class="mm-forecasts">
+        <li *ngFor="let forecast of sixteenDaysForecast | slice:0:5">
+          <p>{{forecast.date}}</p>
+          <img src="{{ forecast.icon }}" alt="Temps">
+          <p>{{forecast.dayTemperature | number: '1.0-0'}}°C</p>
+        </li>
+      </ul>
+    </div>
+  </div>
+  
+  <div class="mm-quote"
+  [ngStyle]="{'visibility': visibleQuote ? 'visible' : 'hidden' }">
+    « {{quote}} »
+  </div>
+<div class="mm-video" *ngIf="showVideo">
+  <div id="player"></div>
+</div>
+</div>
+
+<div class="container mt-5"
+[ngStyle]="{'visibility': visibleNews ? 'visible' : 'hidden' }"
+>
+  <div class="row">
+          <div class="d-flex justify-content-between align-items-center breaking-news position"
+          style="background-color: black;">
+              <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center py-2 text-white px-1 newss"><span class="d-flex align-items-center">&nbsp;News Feed</span></div>
+              <marquee class="news-scroll" behavior="scroll" direction="left"> 
+                  <a *ngFor="let headline of headlinesShow"
+                  style="font-size: 22px;"
+                  > 
+                    {{headline}} 
+                    <span class="dot mr-5 ml-5"></span>
+                  </a>
+              </marquee>
+          </div>
+  </div>
+</div>
+
+<button (click)="toggleVideo()">Toggle video</button>
+<button (click)="testSocket()">Test socket</button>

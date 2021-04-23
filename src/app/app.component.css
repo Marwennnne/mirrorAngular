@@ -1,0 +1,272 @@
+
+.mm-container{
+  padding: 50px;
+}
+
+.mm-columns{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.mm-column-weather{
+  width: 400px;
+}
+
+.mm-date{
+  text-transform: capitalize;
+  font-size: 3em;
+  line-height: 1em;
+}
+.mm-time {
+  font-size: 4em;
+  font-weight: 700;
+  line-height: 1em;
+}
+.mm-ephemeris{
+  font-size: 2em;
+}
+.mm-city{
+  text-transform: capitalize;
+  font-size: 3em;
+  text-align: right;
+  line-height: 1em;
+}
+
+.mm-today-weather{
+  margin: 15px 0 2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.mm-today-weather img{
+  width: 200px;
+}
+.mm-today-weather p{
+  width: 200px;
+  margin-top: 5px;
+  text-align: center;
+  font-size: 1.5em;
+}
+.mm-current-temperature{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.mm-current-temperature img{
+  height: 60px;
+}
+.mm-current-temperature p{
+  font-size: 4em;
+  font-weight: 700;
+  margin: 0 4px;
+}
+.mm-today-temperature{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.mm-today-temperature img{
+  max-height: 45px;
+  margin-top: 5px;
+  margin-right: 5px;
+}
+.mm-today-temperature-minmax{
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+}
+.mm-today-temperature-minmax hr{
+  margin: 0;
+  width: 20px;
+}
+
+.mm-today-weather-details{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.mm-today-weather-detail{
+  margin-left: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mm-today-weather-detail img{
+  max-height: 30px;
+  flex: 1;
+}
+.mm-today-weather-detail p{
+  flex: 1;
+  font-size: 1.5em;
+}
+.mm-forecasts{
+
+}
+.mm-forecasts li{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: flex-end;
+}
+.mm-forecasts li p{
+  font-size: 1.5em;
+  text-transform: capitalize;
+  margin-left: 15px;
+}
+.mm-forecasts li p:last-child{
+  width: 40px;
+  text-align: right;
+}
+.mm-forecasts li img{
+  max-width: 25px;
+  max-height: 25px;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+.mm-quote{
+  position: absolute;
+  bottom: 90px;
+  left: 20px;
+  right: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-style: italic;
+  font-size: 2em;
+}
+
+@keyframes ticker {
+  0% {
+    margin-top: -50px;
+  }
+  11% {
+    margin-top: -100px;
+  }
+  22% {
+    margin-top: -150px;
+  }
+  33% {
+    margin-top: -200px;
+  }
+  44% {
+    margin-top: -250px;
+  }
+  55% {
+    margin-top: -300px;
+  }
+  66% {
+    margin-top: -350px;
+  }
+  77% {
+    margin-top: -400px;
+  }
+  88% {
+    margin-top: -450px;
+  }
+  100% {
+    margin-top: -50px;
+  }
+
+}
+
+.news ul li {
+  line-height: 50px;
+  list-style: none;
+}
+.news {
+  background: #333;
+  box-shadow: inset 0 -15px 30px rgba(0, 0, 0, 0.4),
+    0 5px 10px rgba(0, 0, 0, 0.5);
+  width: 98%;
+  height: 50px;
+  overflow: hidden;
+  border-radius: 4px;
+  padding: 3px;
+  -webkit-user-select: none;
+}
+
+.news span {
+  float: left;
+  color: #fff;
+  padding: 4px;
+  position: relative;
+  top: 1%;
+  border-radius: 4px;
+  background: #333;
+  font: 28px Raleway, Arial, sans-serif;
+  vertical-align: -webkit-baseline-middle;
+  -webkit-font-smoothing: antialiased;
+  -webkit-user-select: none;
+  cursor: pointer;
+}
+
+.news ul {
+  float: left;
+  padding-left: 10px;
+  animation: ticker 30s cubic-bezier(1, 0, 0.5, 0) infinite;
+  -webkit-user-select: none;
+}
+
+.news ul li a {
+  margin-left: 160px;
+  color: #fff;
+  text-decoration: none;
+  font: 22px Raleway, Arial, sans-serif;
+  vertical-align: -webkit-baseline-middle;
+  vertical-align: -moz-middle-with-baseline;
+  -webkit-font-smoothing: antialiased;
+  -webkit-user-select: none;
+}
+
+.news ul:hover {
+  animation-play-state: paused;
+}
+.news span:hover + ul {
+  animation-play-state: paused;
+}
+
+.mm-news{
+  position: absolute;
+  bottom: 0px;
+  left: 10px;
+}
+.mm-video{
+  position: absolute;
+  top: 200px;
+  left:470px;
+}
+
+.newss {
+  width: 160px;
+  background-color: rgb(26, 25, 25);
+  font-weight: bold;
+}
+
+.news-scroll a {
+  text-decoration: none
+}
+
+.dot {
+  height: 6px;
+  width: 6px;
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 2px !important;
+  background-color: rgb(207, 23, 23);
+  border-radius: 50%;
+  display: inline-block
+}
+
+.position{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
